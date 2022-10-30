@@ -14,10 +14,13 @@ public class Car {
         return route;
     }
 
-    public void setRoute(List<Integer> route) {
-        this.route = route;
+    public void setRoute(int index, int val) {
+        this.route.add(index,val);
     }
 
+    public void initializeRoute(List<Integer> route){
+        this.route = route;
+    }
     public void updateTime() {this.currentTime +=10;}
 
     public void setTime(int time){this.currentTime = time;}

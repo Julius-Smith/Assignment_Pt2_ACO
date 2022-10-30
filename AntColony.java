@@ -1,14 +1,17 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class AntColony {
     private final double[][] pheromoneMatrix;
     private final Ant[] antArray;
-
+    private  List<Thread> threads;
     public AntColony() {
         if (Configuration.INSTANCE.isDebug) {
             Configuration.INSTANCE.logEngine.write("--- AntColony()");
         }
 
         int count = Configuration.INSTANCE.countCities;
-        pheromoneMatrix = new double[count][count];
+        pheromoneMatrix = new double[count+1][count+1];
 
         for (int i = 0; i < count; i++) {
             for (int j = 0; j < count; j++) {
@@ -17,6 +20,7 @@ public class AntColony {
         }
 
         antArray = new Ant[Configuration.INSTANCE.numberOfAnts];
+        threads = new ArrayList<>();
 
         for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
             antArray[i] = new Ant(Configuration.INSTANCE.data, this);
@@ -28,11 +32,11 @@ public class AntColony {
     }
 
     public void addPheromone(int from, int to, double pheromoneValue) {
-        pheromoneMatrix[from - 1][to - 1] += pheromoneValue;
+        pheromoneMatrix[from][to] += pheromoneValue;
     }
 
     public double getPheromone(int from, int to) {
-        return pheromoneMatrix[from - 1][to - 1];
+        return pheromoneMatrix[from][to];
     }
 
     public void doDecay() {
@@ -41,8 +45,8 @@ public class AntColony {
         }
 
         int count = Configuration.INSTANCE.countCities;
-        for (int i = 0; i < count; i++) {
-            for (int j = 0; j < count; j++) {
+        for (int i = 0; i < count+1; i++) {
+            for (int j = 0; j < count+1; j++) {
                 pheromoneMatrix[i][j] *= (1.0 - Configuration.INSTANCE.decayFactor);
             }
         }
@@ -67,8 +71,11 @@ public class AntColony {
         return antArray[indexOfAntWithBestObjectiveValue];
     }
 
-    public void solve() {
+    public void solve() throws InterruptedException{
         int iteration = 0;
+//        for(int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++){
+//            threads.add(new Thread(antArray[i]));
+//        }
 
         while (iteration < Configuration.INSTANCE.numberOfIterations) {
             Configuration.INSTANCE.logEngine.write("*** iteration - " + iteration);
@@ -76,15 +83,25 @@ public class AntColony {
             printPheromoneMatrix();
 
             iteration++;
+            threads = new ArrayList<>();
 
             for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
-                antArray[i].newRound();
-                antArray[i].lookForWay();
+                //antArray[i].newRound();
+                //antArray[i].lookForWay();
+                threads.add(new Thread(antArray[i]));
+                threads.get(i).start();
+            }
+
+            for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
+                threads.get(i).join();
             }
 
             doDecay();
             //TO-DO: update pheremone using all them ants.
-            getBestAnt().layPheromone();
+            for(Ant ant : antArray){
+                ant.layPheromone();
+            }
+            //getBestAnt().layPheromone();
 
             printPheromoneMatrix();
 
