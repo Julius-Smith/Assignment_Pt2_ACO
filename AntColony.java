@@ -80,7 +80,7 @@ public class AntColony {
         while (iteration < Configuration.INSTANCE.numberOfIterations) {
             Configuration.INSTANCE.logEngine.write("*** iteration - " + iteration);
 
-            printPheromoneMatrix();
+            //printPheromoneMatrix();
 
             iteration++;
             threads = new ArrayList<>();
@@ -90,10 +90,12 @@ public class AntColony {
                 //antArray[i].lookForWay();
                 threads.add(new Thread(antArray[i]));
                 threads.get(i).start();
+                //antArray[i].start();
             }
 
             for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
                 threads.get(i).join();
+                //antArray[i].join();
             }
 
             doDecay();
@@ -103,9 +105,14 @@ public class AntColony {
             }
             //getBestAnt().layPheromone();
 
-            printPheromoneMatrix();
+            //printPheromoneMatrix();
+
+            System.out.println(getBestAnt().toString());
 
             Configuration.INSTANCE.logEngine.write("***");
+//            for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
+//                antArray[i] = new Ant(Configuration.INSTANCE.data, this);
+//            }
         }
     }
 

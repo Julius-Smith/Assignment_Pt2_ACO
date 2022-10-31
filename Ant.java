@@ -8,6 +8,7 @@ public class Ant extends Thread {
     private final ProblemInstance data;
     private final AntColony antColony;
     private double objectiveValue = 0.0;
+    private double  distance = 0.0;
     private int[] tour;
     private List<Car> cars;
     private Vector<Integer> notJetVisited = null;
@@ -15,6 +16,7 @@ public class Ant extends Thread {
     public Ant(ProblemInstance data, AntColony antColony) {
         this.data = data;
         this.antColony = antColony;
+        initializeCars();
     }
 
     public void initializeCars(){
@@ -35,10 +37,13 @@ public class Ant extends Thread {
 
             for (Car car : cars) {
                 int tempVehicleCapacity = Configuration.INSTANCE.vehicleCapacity;
+                int time = 0;
                 for (int i = 0; i < car.getRoute().size() - 1; i++) {
+
                     int position = car.getRoute().get(i);
                     int position2 = car.getRoute().get(i + 1);
                     objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
+                    distance += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
 
 
                     //if exceeding capacity, go to depo and back again
@@ -48,6 +53,8 @@ public class Ant extends Thread {
                             currentDemand -= tempVehicleCapacity;
                             objectiveValue += Configuration.INSTANCE.distanceMatrix.get(car.getRoute().get(i)).get(0);
                             objectiveValue += Configuration.INSTANCE.distanceMatrix.get(0).get(car.getRoute().get(i));
+                            distance +=  Configuration.INSTANCE.distanceMatrix.get(car.getRoute().get(i)).get(0);
+                            distance += Configuration.INSTANCE.distanceMatrix.get(0).get(car.getRoute().get(i));
                             tempVehicleCapacity = Configuration.INSTANCE.vehicleCapacity;
                         } else {
                             tempVehicleCapacity -= currentDemand;
@@ -57,36 +64,40 @@ public class Ant extends Thread {
 
                     //Punish for time window
                     //setting time of car to start of window of first customer
-                    int tempCustomerIndex = car.getRoute().get(i+1);
+                    int tempCustomerIndex = car.getRoute().get(i);
                     City tempCustomer = Configuration.cities.get(tempCustomerIndex);
                     int tempReadyTime = (int) tempCustomer.getReadyTime();
                     int tempDueTime = (int) tempCustomer.getDueTime();
                     //if car is early, it will wait for ready time
-                    if (car.getCurrentTime() < tempReadyTime) {
-                        car.setTime(tempReadyTime);
+                    if (time < tempReadyTime) {
+                        time = tempReadyTime;
                     }
                     //if car is within window, no penalty
-                    if (car.getCurrentTime() >= tempReadyTime && car.getCurrentTime() <= tempDueTime) {
+                    if (time >= tempReadyTime && time <= tempDueTime) {
                         penalty += 0; //car.getCurrentTime() - tempReadyTime;
                         //else, penalty is time outside of window
                     } else {
-                        penalty += car.getCurrentTime() - tempDueTime;
+                        penalty += time - tempDueTime;
                     }
                     //update time by service time (i.e., 10)
-                    car.updateTime();
+                    time +=10;
                 }
-                car.setTime(0);
+
                 //add distance to depo at end
                 int position = car.getRoute().size() - 1;
                 int position2 = car.getRoute().get(0);
                 objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
+                distance += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
             }
+            objectiveValue += (500)*penalty;
         }
-        return ((objectiveValue) +  ((100)*penalty));
+
+        return (objectiveValue);
     }
 
     public void newRound() {
         objectiveValue = 0.0;
+        distance = 0.0;
         //tour = new int[Configuration.INSTANCE.countCities];
         notJetVisited = new Vector<>();
 
@@ -97,7 +108,7 @@ public class Ant extends Thread {
 
     public void layPheromone() {
         //double pheromone = Configuration.INSTANCE.decayFactor / objectiveValue;
-        double pheromone = 1 / objectiveValue;
+        double pheromone = 1/ objectiveValue;
         int count = Configuration.INSTANCE.countCities;
 
         if (Configuration.INSTANCE.isDebug) {
@@ -127,9 +138,9 @@ public class Ant extends Thread {
         newRound();
         DecimalFormat decimalFormat = new DecimalFormat("#0.000000000000000");
 
-        if (Configuration.INSTANCE.isDebug) {
-            Configuration.INSTANCE.logEngine.write("--- Ant.lookForWay");
-        }
+//        if (Configuration.INSTANCE.isDebug) {
+//            Configuration.INSTANCE.logEngine.write("--- Ant.lookForWay");
+//        }
 
         int numberOfCities = Configuration.INSTANCE.countCities;
         //int randomIndexOfTownToStart = (int) (numberOfCities * Configuration.INSTANCE.randomGenerator.nextDouble() + 1);
@@ -145,6 +156,7 @@ public class Ant extends Thread {
         initializeCars();
 
         for(Car car : cars) {
+            int time = 0;
             for (int i = 1; i <= numberOfCities/Configuration.INSTANCE.vehicleQuantity; i++) {
                 double sum = 0.0;
 
@@ -156,8 +168,21 @@ public class Ant extends Thread {
                     int position = notJetVisited.elementAt(j);
                     int position2 = car.getRoute().get(i-1);
                     double tempDistance = Configuration.INSTANCE.distanceMatrix.get(position2).get(position);
+                    //making distance include delta time
+                    double penalty  = 0;
+                    City tempCustomer = Configuration.cities.get(position);
+
+                    int tempDueTime = (int) tempCustomer.getDueTime();
+                    //if car is early, it will wait for ready time
+
+                    //if car is within window, no penalty
+                    if (time > tempDueTime) {
+                        penalty += time - tempDueTime;
+                    }
+
+                    double cost = tempDistance + (10000)*(penalty);
                     sum += Math.pow(antColony.getPheromone(position2, position),Configuration.INSTANCE.alphaValue)
-                            / Math.pow(tempDistance,Configuration.INSTANCE.betaValue);
+                            / Math.pow(cost,Configuration.INSTANCE.betaValue);
                 }
 
                 double selectionProbability = 0.0;
@@ -172,11 +197,26 @@ public class Ant extends Thread {
                 for (int j = 0; j < notJetVisited.size(); j++) {
                     int position = notJetVisited.elementAt(j);
                     int position2 = car.getRoute().get(i-1);
+                    double tempDistance = Configuration.INSTANCE.distanceMatrix.get(position2).get(position);
+                    //making distance include delta time
+                    double penalty  = 0;
+                    City tempCustomer = Configuration.cities.get(position);
+                    int tempReadyTime = (int) tempCustomer.getReadyTime();
+                    int tempDueTime = (int) tempCustomer.getDueTime();
+                    //if car is early, it will wait for ready time
+
+                    //if car is within window, no penalty
+                    if (time > tempDueTime) {
+                        penalty += time - tempDueTime;
+                    }
+
+                    double cost = tempDistance + (10000)*(penalty);
 
                     selectionProbability += Math.pow(antColony.getPheromone(position2, position),Configuration.INSTANCE.alphaValue) /
-                            Math.pow(Configuration.INSTANCE.distanceMatrix.get(position2).get(position),Configuration.INSTANCE.betaValue)/
+                            Math.pow(cost,Configuration.INSTANCE.betaValue)/
                             sum;
 
+                    //System.out.println(selectionProbability);
                     if (Configuration.INSTANCE.isDebug)
                         if (position < 10) {
                             Configuration.INSTANCE.logEngine.write("position : 0" + position +
@@ -191,6 +231,10 @@ public class Ant extends Thread {
                     }
                     if (randomNumber < selectionProbability) {
                         randomIndexOfTownToStart = position;
+                        if(time <tempReadyTime){
+                            time =tempReadyTime;
+                        }
+                        time+=10;
                         break;
                     }
                 }
@@ -207,6 +251,7 @@ public class Ant extends Thread {
                     Configuration.INSTANCE.logEngine.write("-");
                 }
             }
+            //car.setTime(0);
         }
         getObjectiveValue();
 
@@ -239,21 +284,23 @@ public class Ant extends Thread {
         boolean check = true;
         List<Integer> out = new ArrayList<>();
         for(Car car : cars){
+            int time = 0;
             int listSize = car.getRoute().size() - 1;
             for (int i = 1; i <= listSize; i++) {
                 int tempCustomerIndex = car.getRoute().get(i);
                 City tempCustomer = Configuration.cities.get(tempCustomerIndex);
                 int tempReadyTime = (int)tempCustomer.getReadyTime();
                 int tempDueTime = (int)tempCustomer.getDueTime();
-                if(car.getCurrentTime() < tempReadyTime){
-                    car.setTime(tempReadyTime);
+                if(time < tempReadyTime){
+                    time =tempReadyTime;
                 }
-                if(!(car.getCurrentTime() >= tempReadyTime && car.getCurrentTime()<= tempDueTime)) {
+                if(!(time>= tempReadyTime && time<= tempDueTime)) {
                     check = false;
                     out.add(tempCustomerIndex);
                 }
-                car.updateTime();
+                time +=10;
             }
+//            car.setTime(0);
         }
 
         if(check == true){
@@ -268,6 +315,8 @@ public class Ant extends Thread {
         }
         stringBuilder.append("\n");
         stringBuilder.append("objectiveValue : ").append(objectiveValue);
+        stringBuilder.append("\n");
+        stringBuilder.append("Distance: ").append(distance);
 
         return stringBuilder.toString();
     }

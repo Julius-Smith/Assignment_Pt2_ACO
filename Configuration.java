@@ -18,16 +18,16 @@ public enum Configuration {
     }
     public int countCities = 0;
     public final LogEngine logEngine = new LogEngine( "debug.log");
-    public final boolean isDebug = true;
+    public final boolean isDebug = false;
     public final DecimalFormat decimalFormat = new DecimalFormat("#0.000000000000000");
     public final MersenneTwister randomGenerator = new MersenneTwister(System.currentTimeMillis());
     // ant colony optimization
-    public final double startPheromoneValue = 0.00005;
+    public final double startPheromoneValue = 0.000005;//0.00005;
     public final int numberOfAnts = 10;
-    public final int numberOfIterations = 250;
+    public final int numberOfIterations = 2000;
     public ProblemInstance data;
-    public final float alphaValue = 1;
-    public final float betaValue = 2;
+    public final double alphaValue = 2;
+    public final double betaValue = 3;
     public final double decayFactor = 0.5;
 
 

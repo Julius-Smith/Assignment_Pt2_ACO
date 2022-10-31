@@ -4,10 +4,11 @@ public class Car {
     //Current time is to keep track of customer schedule.
     //This will be initialised to the starting drop-off time of the first customer of the route
     //i.e., the car would wait at the depo until it is time to go to the first customer
-    private int currentTime = 0;
+    private int currentTime ;
     private List<Integer> route;
 
     public Car() {
+        currentTime = 0;
     }
 
     public List<Integer> getRoute() {
