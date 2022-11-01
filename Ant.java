@@ -1,6 +1,7 @@
 import java.io.ObjectInputFilter;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Vector;
 
@@ -9,6 +10,7 @@ public class Ant extends Thread {
     private final AntColony antColony;
     private double objectiveValue = 0.0;
     private double  distance = 0.0;
+    private double penalty = 0;
     private int[] tour;
     private List<Car> cars;
     private Vector<Integer> notJetVisited = null;
@@ -30,7 +32,7 @@ public class Ant extends Thread {
 
 
     public double getObjectiveValue() {
-        int penalty = 0;
+
         if (objectiveValue == 0.0) {
             int count = Configuration.INSTANCE.countCities;
             int currentDemand;
@@ -64,7 +66,7 @@ public class Ant extends Thread {
 
                     //Punish for time window
                     //setting time of car to start of window of first customer
-                    int tempCustomerIndex = car.getRoute().get(i);
+                    int tempCustomerIndex = car.getRoute().get(i+1);
                     City tempCustomer = Configuration.cities.get(tempCustomerIndex);
                     int tempReadyTime = (int) tempCustomer.getReadyTime();
                     int tempDueTime = (int) tempCustomer.getDueTime();
@@ -89,7 +91,9 @@ public class Ant extends Thread {
                 objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
                 distance += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
             }
-            objectiveValue += (500)*penalty;
+
+
+            objectiveValue = objectiveValue + (1000)*penalty;
         }
 
         return (objectiveValue);
@@ -98,12 +102,14 @@ public class Ant extends Thread {
     public void newRound() {
         objectiveValue = 0.0;
         distance = 0.0;
+        penalty = 0.0;
         //tour = new int[Configuration.INSTANCE.countCities];
         notJetVisited = new Vector<>();
 
         for (int i = 1; i <= Configuration.INSTANCE.countCities; i++) {
             notJetVisited.addElement(i);
         }
+
     }
 
     public void layPheromone() {
@@ -122,11 +128,11 @@ public class Ant extends Thread {
             List<Integer> tempRoute = car.getRoute();
             for (int i = 0; i < car.getRoute().size() - 1; i++) {
                 antColony.addPheromone(tempRoute.get(i), tempRoute.get(i+1), pheromone);
-                antColony.addPheromone(tempRoute.get(i+1), tempRoute.get(i), pheromone);
+                //antColony.addPheromone(tempRoute.get(i+1), tempRoute.get(i), pheromone);
             }
 
             antColony.addPheromone(tempRoute.get(tempRoute.size()-1), tempRoute.get(0), pheromone);
-            antColony.addPheromone(tempRoute.get(0), tempRoute.get(tempRoute.size()-1), pheromone);
+            //antColony.addPheromone(tempRoute.get(0), tempRoute.get(tempRoute.size()-1), pheromone);
         }
         if (Configuration.INSTANCE.isDebug) {
             Configuration.INSTANCE.logEngine.write("---");
@@ -180,7 +186,7 @@ public class Ant extends Thread {
                         penalty += time - tempDueTime;
                     }
 
-                    double cost = tempDistance + (10000)*(penalty);
+                    double cost = 0.1*tempDistance + (1000)*(penalty);
                     sum += Math.pow(antColony.getPheromone(position2, position),Configuration.INSTANCE.alphaValue)
                             / Math.pow(cost,Configuration.INSTANCE.betaValue);
                 }
@@ -210,7 +216,7 @@ public class Ant extends Thread {
                         penalty += time - tempDueTime;
                     }
 
-                    double cost = tempDistance + (10000)*(penalty);
+                    double cost = 0.1*tempDistance + (1000)*(penalty);
 
                     selectionProbability += Math.pow(antColony.getPheromone(position2, position),Configuration.INSTANCE.alphaValue) /
                             Math.pow(cost,Configuration.INSTANCE.betaValue)/
@@ -246,7 +252,7 @@ public class Ant extends Thread {
                 //tour[i] = randomIndexOfTownToStart;
                 car.getRoute().add(i,randomIndexOfTownToStart);
                 notJetVisited.removeElement(randomIndexOfTownToStart);
-
+                Collections.shuffle(notJetVisited);
                 if (Configuration.INSTANCE.isDebug) {
                     Configuration.INSTANCE.logEngine.write("-");
                 }

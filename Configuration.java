@@ -23,11 +23,11 @@ public enum Configuration {
     public final MersenneTwister randomGenerator = new MersenneTwister(System.currentTimeMillis());
     // ant colony optimization
     public final double startPheromoneValue = 0.000005;//0.00005;
-    public final int numberOfAnts = 10;
-    public final int numberOfIterations = 2000;
+    public final int numberOfAnts = 100;
+    public final int numberOfIterations = 1000;
     public ProblemInstance data;
-    public final double alphaValue = 2;
-    public final double betaValue = 3;
+    public final double alphaValue = 1;
+    public final double betaValue = 2;
     public final double decayFactor = 0.5;
 
 
