@@ -29,6 +29,7 @@ public enum Configuration {
     public final double alphaValue = 1;
     public final double betaValue = 2;
     public final double decayFactor = 0.5;
+    //PT
 
 
 }
