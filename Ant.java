@@ -40,7 +40,7 @@ public class Ant extends Thread {
             for (Car car : cars) {
                 int tempVehicleCapacity = Configuration.INSTANCE.vehicleCapacity;
                 int time = 0;
-                for (int i = 0; i < car.getRoute().size() - 1; i++) {
+                for (int i = 0; i <car.getRoute().size() - 1; i++) {
 
                     int position = car.getRoute().get(i);
                     int position2 = car.getRoute().get(i + 1);
@@ -249,7 +249,7 @@ public class Ant extends Thread {
                     Configuration.INSTANCE.logEngine.write("randomIndexOfTownToStart : " + randomIndexOfTownToStart);
                 }
 
-                //tour[i] = randomIndexOfTownToStart;
+
                 car.getRoute().add(i,randomIndexOfTownToStart);
                 notJetVisited.removeElement(randomIndexOfTownToStart);
                 Collections.shuffle(notJetVisited);
@@ -257,7 +257,7 @@ public class Ant extends Thread {
                     Configuration.INSTANCE.logEngine.write("-");
                 }
             }
-            //car.setTime(0);
+
         }
         getObjectiveValue();
 

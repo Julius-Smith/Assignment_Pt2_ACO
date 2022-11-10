@@ -71,11 +71,10 @@ public class AntColony {
         return antArray[indexOfAntWithBestObjectiveValue];
     }
 
-    public void solve() throws InterruptedException{
+    //return String for PT
+    public String solve() throws InterruptedException{
         int iteration = 0;
-//        for(int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++){
-//            threads.add(new Thread(antArray[i]));
-//        }
+
 
         while (iteration < Configuration.INSTANCE.numberOfIterations) {
             Configuration.INSTANCE.logEngine.write("*** iteration - " + iteration);
@@ -86,11 +85,10 @@ public class AntColony {
             threads = new ArrayList<>();
 
             for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
-                //antArray[i].newRound();
-                //antArray[i].lookForWay();
+
                 threads.add(new Thread(antArray[i]));
                 threads.get(i).start();
-                //antArray[i].start();
+
             }
 
             for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
@@ -99,7 +97,7 @@ public class AntColony {
             }
 
             doDecay();
-            //TO-DO: update pheremone using all them ants.
+
             for(Ant ant : antArray){
                 ant.layPheromone();
             }
@@ -114,6 +112,7 @@ public class AntColony {
 //                antArray[i] = new Ant(Configuration.INSTANCE.data, this);
 //            }
         }
+        return Double.toString(getBestAnt().getObjectiveValue());
     }
 
     public void printPheromoneMatrix() {
