@@ -10,7 +10,7 @@ public class ParameterTuner {
             BufferedWriter bw = new BufferedWriter(fw);
             PrintWriter out = new PrintWriter(bw);
 
-            double best = 0;
+            double best = 100000;
             double bestAntsNum = 0;
             double bestDecay = 0;
             double bestAlpha = 0;
@@ -33,9 +33,9 @@ public class ParameterTuner {
                             System.out.println(Configuration.INSTANCE.betaValue);
 
                             String Dist = ApplicationPT.go();
-                            String output = "Popsize: " + Integer.toString(i) + "\nTruncation: " + Double.toString(decay) +
-                                    "\nMuationR: " + Double.toString(alpha) + "\nCrossoverR: " + Double.toString(beta)
-                                    + "\nDistance:  " + Dist + "\n";
+                            String output = "Ants: " + Integer.toString(i) + "\nDecay: " + Double.toString(decay) +
+                                    "\nAlphaV: " + Double.toString(alpha) + "\nBetaV: " + Double.toString(beta)
+                                    + "\nObjectiveV:  " + Dist + "\n";
                             out.println(output);
                             if (Double.parseDouble(Dist) <= best) {
                                 best = Double.parseDouble(Dist);

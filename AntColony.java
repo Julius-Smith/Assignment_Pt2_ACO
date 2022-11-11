@@ -93,7 +93,6 @@ public class AntColony {
 
             for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
                 threads.get(i).join();
-                //antArray[i].join();
             }
 
             doDecay();
