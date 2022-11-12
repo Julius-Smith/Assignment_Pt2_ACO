@@ -94,9 +94,9 @@ public class Ant extends Thread {
 
                 //add distance to depo at end
                 int position = car.getRoute().size() - 1;
-                int position2 = car.getRoute().get(0);
-                objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
-                distance += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
+                //int position2 = car.getRoute().get(0);
+                objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(0);
+                distance += Configuration.INSTANCE.distanceMatrix.get(position).get(0);
             }
 
 
@@ -166,13 +166,6 @@ public class Ant extends Thread {
             for (int i = 1; i <= numberOfCities/Configuration.INSTANCE.vehicleQuantity; i++) {
                 double sum = 0.0;
 
-//                Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
-//                        "\ni : " + i + " - notJetVisited : " + notJetVisited +"\n");
-
-//                if (Configuration.INSTANCE.isDebug) {
-//                    Configuration.INSTANCE.logEngine.write("i : " + i + " - notJetVisited : " + notJetVisited);
-//                }
-
                 for (int j = 0; j < notJetVisited.size(); j++) {
                     int position = notJetVisited.elementAt(j);
                     int position2 = car.getRoute().get(i-1);
@@ -197,11 +190,6 @@ public class Ant extends Thread {
                 double selectionProbability = 0.0;
                 double randomNumber = Configuration.INSTANCE.randomGenerator.nextDouble();
 
-//                if (Configuration.INSTANCE.isDebug) {
-//                    Configuration.INSTANCE.logEngine.write("i : " + i + " - sum : " + decimalFormat.format(sum) +
-//                            " - randomNumber : " + decimalFormat.format(randomNumber));
-//                    Configuration.INSTANCE.logEngine.write("-");
-//                }
 
                 for (int j = 0; j < notJetVisited.size(); j++) {
                     int position = notJetVisited.elementAt(j);
@@ -225,22 +213,6 @@ public class Ant extends Thread {
                             Math.pow(cost,Configuration.INSTANCE.betaValue)/
                             sum;
 
-
-                    //if (Configuration.INSTANCE.isDebug)
-                        if (position < 10) {
-//                            Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
-//                                    "\nposition : 0" + position + " - selectionProbability : " + decimalFormat.format(selectionProbability) +"\n");
-
-//                            Configuration.INSTANCE.logEngine.write("position : 0" + position +
-//                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
-                        } else {
-//                            Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
-//                                    "\nposition : " + position + " - selectionProbability : " + decimalFormat.format(selectionProbability) +"\n");
-//                            Configuration.INSTANCE.logEngine.write("position : " + position +
-//                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
-
-                        }
-
                     if(Double.isNaN(selectionProbability)){
                         selectionProbability =1;
                     }
@@ -254,17 +226,11 @@ public class Ant extends Thread {
                     }
                 }
 
-//                if (Configuration.INSTANCE.isDebug) {
-//                    Configuration.INSTANCE.logEngine.write("randomIndexOfTownToStart : " + randomIndexOfTownToStart);
-//                }
-
 
                 car.getRoute().add(i,randomIndexOfTownToStart);
                 notJetVisited.removeElement(randomIndexOfTownToStart);
                 Collections.shuffle(notJetVisited);
-//                if (Configuration.INSTANCE.isDebug) {
-//                    Configuration.INSTANCE.logEngine.write("-");
-//                }
+
             }
 
         }
@@ -272,9 +238,7 @@ public class Ant extends Thread {
 
         Singleton.getInstance().writeToFile("Agent: " + this.num + " --- " + LogEngine.getCurrentDate() +
                 "\nDone Searching\n");
-//        if (Configuration.INSTANCE.isDebug) {
-//            Configuration.INSTANCE.logEngine.write("---");
-//        }
+
     }
 
     public String toString() {
