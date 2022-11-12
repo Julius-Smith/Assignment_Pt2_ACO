@@ -23,7 +23,7 @@ public class AntColony {
         threads = new ArrayList<>();
 
         for (int i = 0; i < Configuration.INSTANCE.numberOfAnts; i++) {
-            antArray[i] = new Ant(Configuration.INSTANCE.data, this);
+            antArray[i] = new Ant(Configuration.INSTANCE.data, this, i);
         }
 
         if (Configuration.INSTANCE.isDebug) {
@@ -79,6 +79,7 @@ public class AntColony {
         while (iteration < Configuration.INSTANCE.numberOfIterations) {
             Configuration.INSTANCE.logEngine.write("*** iteration - " + iteration);
 
+            Singleton.getInstance().writeToFile("Iteration: " + iteration + "\n");
             //printPheromoneMatrix();
 
             iteration++;
@@ -102,7 +103,7 @@ public class AntColony {
             }
             //getBestAnt().layPheromone();
 
-            //printPheromoneMatrix();
+            //Singleton.getInstance().writeToFile(printPheromoneMatrix());
 
             System.out.println(getBestAnt().toString());
 
@@ -114,20 +115,23 @@ public class AntColony {
         return Double.toString(getBestAnt().getObjectiveValue());
     }
 
-    public void printPheromoneMatrix() {
-        if (Configuration.INSTANCE.isDebug) {
-            Configuration.INSTANCE.logEngine.write("--- AntColony.printPheromoneMatrix()");
-        }
+    public String printPheromoneMatrix() {
+        StringBuilder str = new StringBuilder();
+//        if (Configuration.INSTANCE.isDebug) {
+//            Configuration.INSTANCE.logEngine.write("--- AntColony.printPheromoneMatrix()");
+//        }
 
         int n = pheromoneMatrix.length;
         for (double[] matrix : pheromoneMatrix) {
             for (int j = 0; j < n; j++) {
-                System.out.print(Configuration.INSTANCE.decimalFormat.format(matrix[j]) + " ");
+                str.append(Configuration.INSTANCE.decimalFormat.format(matrix[j]) + " ");
             }
-            System.out.println();
+            str.append("\n");
         }
 
-        System.out.println("---");
+        str.append("---");
+
+        return str.toString();
     }
 
     public String toString() {

@@ -16,7 +16,7 @@ public class LogEngine {
         }
     }
 
-    public String getCurrentDate() {
+    public static String getCurrentDate() {
         Date date = new Date();
         // SimpleDateFormat simpleDateFormat = new SimpleDateFormat();
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss.S");
@@ -24,14 +24,10 @@ public class LogEngine {
     }
 
     public void write(String text) {
-//        try {
-//            if (Configuration.INSTANCE.isDebug) {
-                System.out.println(text);
-//            }
-//            //bufferedWriter.write(getCurrentDate() + " : " + text + "\n");
-//        } catch (IOException ioe) {
-//            System.out.println(ioe.getMessage());
-//        }
+        if (Configuration.INSTANCE.isDebug) {
+            System.out.println(text);
+        }
+        //bufferedWriter.write(getCurrentDate() + " : " + text + "\n");
     }
 
     public void write(String className, String methodName, String attributeName, String attributeValue) {

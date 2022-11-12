@@ -6,8 +6,9 @@ public class Application {
         Configuration.INSTANCE.data = new ProblemInstance();
         Configuration.INSTANCE.data.readData();
         AntColony antColony = new AntColony();
+        Singleton.initialize();
         antColony.solve();
-
+        Singleton.close();
         Configuration.INSTANCE.logEngine.write(antColony.toString());
 
         Configuration.INSTANCE.logEngine.close();

@@ -15,9 +15,12 @@ public class Ant extends Thread {
     private List<Car> cars;
     private Vector<Integer> notJetVisited = null;
 
-    public Ant(ProblemInstance data, AntColony antColony) {
+    private int num ;
+
+    public Ant(ProblemInstance data, AntColony antColony, int num) {
         this.data = data;
         this.antColony = antColony;
+        this.num = num;
         initializeCars();
     }
 
@@ -40,12 +43,16 @@ public class Ant extends Thread {
             for (Car car : cars) {
                 int tempVehicleCapacity = Configuration.INSTANCE.vehicleCapacity;
                 int time = 0;
-                for (int i = 0; i <car.getRoute().size() - 1; i++) {
+                for (int i = 0; i <=car.getRoute().size() - 1; i++) {
 
-                    int position = car.getRoute().get(i);
-                    int position2 = car.getRoute().get(i + 1);
-                    objectiveValue += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
-                    distance += Configuration.INSTANCE.distanceMatrix.get(position).get(position2);
+                        if (i == 0) {
+                            objectiveValue += Configuration.INSTANCE.distanceMatrix.get(0).get(car.getRoute().get(0));
+                            distance += Configuration.INSTANCE.distanceMatrix.get(0).get(car.getRoute().get(0));
+                        } else {
+                            objectiveValue += Configuration.INSTANCE.distanceMatrix.get(car.getRoute().get(i - 1)).get(car.getRoute().get(i));
+                            distance += Configuration.INSTANCE.distanceMatrix.get(car.getRoute().get(i - 1)).get(car.getRoute().get(i));
+                        }
+
 
 
                     //if exceeding capacity, go to depo and back again
@@ -66,7 +73,7 @@ public class Ant extends Thread {
 
                     //Punish for time window
                     //setting time of car to start of window of first customer
-                    int tempCustomerIndex = car.getRoute().get(i+1);
+                    int tempCustomerIndex = car.getRoute().get(i);
                     City tempCustomer = Configuration.cities.get(tempCustomerIndex);
                     int tempReadyTime = (int) tempCustomer.getReadyTime();
                     int tempDueTime = (int) tempCustomer.getDueTime();
@@ -144,19 +151,12 @@ public class Ant extends Thread {
         newRound();
         DecimalFormat decimalFormat = new DecimalFormat("#0.000000000000000");
 
-//        if (Configuration.INSTANCE.isDebug) {
-//            Configuration.INSTANCE.logEngine.write("--- Ant.lookForWay");
-//        }
+        Singleton.getInstance().writeToFile("Agent: " + this.num + " --- " + LogEngine.getCurrentDate() +
+                "\n--- Ant Searching" +"\n");
 
         int numberOfCities = Configuration.INSTANCE.countCities;
-        //int randomIndexOfTownToStart = (int) (numberOfCities * Configuration.INSTANCE.randomGenerator.nextDouble() + 1);
+
         int randomIndexOfTownToStart = (int) (numberOfCities * Configuration.INSTANCE.randomGenerator.nextDouble());
-        if (Configuration.INSTANCE.isDebug) {
-            Configuration.INSTANCE.logEngine.write("numberOfCities           : " + numberOfCities);
-            //Configuration.INSTANCE.logEngine.write("randomIndexOfTownToStart : " + randomIndexOfTownToStart);
-        }
-
-
 
         //depo set as first postition
         initializeCars();
@@ -166,9 +166,12 @@ public class Ant extends Thread {
             for (int i = 1; i <= numberOfCities/Configuration.INSTANCE.vehicleQuantity; i++) {
                 double sum = 0.0;
 
-                if (Configuration.INSTANCE.isDebug) {
-                    Configuration.INSTANCE.logEngine.write("i : " + i + " - notJetVisited : " + notJetVisited);
-                }
+//                Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
+//                        "\ni : " + i + " - notJetVisited : " + notJetVisited +"\n");
+
+//                if (Configuration.INSTANCE.isDebug) {
+//                    Configuration.INSTANCE.logEngine.write("i : " + i + " - notJetVisited : " + notJetVisited);
+//                }
 
                 for (int j = 0; j < notJetVisited.size(); j++) {
                     int position = notJetVisited.elementAt(j);
@@ -179,8 +182,8 @@ public class Ant extends Thread {
                     City tempCustomer = Configuration.cities.get(position);
 
                     int tempDueTime = (int) tempCustomer.getDueTime();
-                    //if car is early, it will wait for ready time
 
+                    //if car is early, it will wait for ready time
                     //if car is within window, no penalty
                     if (time > tempDueTime) {
                         penalty += time - tempDueTime;
@@ -194,11 +197,11 @@ public class Ant extends Thread {
                 double selectionProbability = 0.0;
                 double randomNumber = Configuration.INSTANCE.randomGenerator.nextDouble();
 
-                if (Configuration.INSTANCE.isDebug) {
-                    Configuration.INSTANCE.logEngine.write("i : " + i + " - sum : " + decimalFormat.format(sum) +
-                            " - randomNumber : " + decimalFormat.format(randomNumber));
-                    Configuration.INSTANCE.logEngine.write("-");
-                }
+//                if (Configuration.INSTANCE.isDebug) {
+//                    Configuration.INSTANCE.logEngine.write("i : " + i + " - sum : " + decimalFormat.format(sum) +
+//                            " - randomNumber : " + decimalFormat.format(randomNumber));
+//                    Configuration.INSTANCE.logEngine.write("-");
+//                }
 
                 for (int j = 0; j < notJetVisited.size(); j++) {
                     int position = notJetVisited.elementAt(j);
@@ -222,14 +225,20 @@ public class Ant extends Thread {
                             Math.pow(cost,Configuration.INSTANCE.betaValue)/
                             sum;
 
-                    //System.out.println(selectionProbability);
-                    if (Configuration.INSTANCE.isDebug)
+
+                    //if (Configuration.INSTANCE.isDebug)
                         if (position < 10) {
-                            Configuration.INSTANCE.logEngine.write("position : 0" + position +
-                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
+//                            Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
+//                                    "\nposition : 0" + position + " - selectionProbability : " + decimalFormat.format(selectionProbability) +"\n");
+
+//                            Configuration.INSTANCE.logEngine.write("position : 0" + position +
+//                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
                         } else {
-                            Configuration.INSTANCE.logEngine.write("position : " + position +
-                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
+//                            Singleton.getInstance().writeToFile("Agent: " + this.num + "---" + LogEngine.getCurrentDate() +
+//                                    "\nposition : " + position + " - selectionProbability : " + decimalFormat.format(selectionProbability) +"\n");
+//                            Configuration.INSTANCE.logEngine.write("position : " + position +
+//                                    " - selectionProbability : " + decimalFormat.format(selectionProbability));
+
                         }
 
                     if(Double.isNaN(selectionProbability)){
@@ -245,25 +254,27 @@ public class Ant extends Thread {
                     }
                 }
 
-                if (Configuration.INSTANCE.isDebug) {
-                    Configuration.INSTANCE.logEngine.write("randomIndexOfTownToStart : " + randomIndexOfTownToStart);
-                }
+//                if (Configuration.INSTANCE.isDebug) {
+//                    Configuration.INSTANCE.logEngine.write("randomIndexOfTownToStart : " + randomIndexOfTownToStart);
+//                }
 
 
                 car.getRoute().add(i,randomIndexOfTownToStart);
                 notJetVisited.removeElement(randomIndexOfTownToStart);
                 Collections.shuffle(notJetVisited);
-                if (Configuration.INSTANCE.isDebug) {
-                    Configuration.INSTANCE.logEngine.write("-");
-                }
+//                if (Configuration.INSTANCE.isDebug) {
+//                    Configuration.INSTANCE.logEngine.write("-");
+//                }
             }
 
         }
         getObjectiveValue();
 
-        if (Configuration.INSTANCE.isDebug) {
-            Configuration.INSTANCE.logEngine.write("---");
-        }
+        Singleton.getInstance().writeToFile("Agent: " + this.num + " --- " + LogEngine.getCurrentDate() +
+                "\nDone Searching\n");
+//        if (Configuration.INSTANCE.isDebug) {
+//            Configuration.INSTANCE.logEngine.write("---");
+//        }
     }
 
     public String toString() {
