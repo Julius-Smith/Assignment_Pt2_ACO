@@ -8,6 +8,7 @@ public class ApplicationPT {
         Configuration.INSTANCE.data = new ProblemInstance();
         Configuration.INSTANCE.data.readData();
         AntColony antColony = new AntColony();
+        Singleton.initialize();
         return antColony.solve();
 
         //Configuration.INSTANCE.logEngine.write(antColony.toString());
