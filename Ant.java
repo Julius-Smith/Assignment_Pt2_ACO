@@ -1,9 +1,6 @@
 import java.io.ObjectInputFilter;
 import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Vector;
+import java.util.*;
 
 public class Ant extends Thread {
     private final ProblemInstance data;
@@ -234,6 +231,7 @@ public class Ant extends Thread {
             }
 
         }
+
         getObjectiveValue();
 
         Singleton.getInstance().writeToFile("Agent: " + this.num + " --- " + LogEngine.getCurrentDate() +
@@ -264,11 +262,23 @@ public class Ant extends Thread {
         //time window check
         boolean check = true;
         List<Integer> out = new ArrayList<>();
+        List<Integer> cities = new ArrayList<>();
+
+        for(int i = 2; i <= 101; i++){
+            cities.add(i);
+        }
+        List<Integer> route = new ArrayList<>();
+
         for(Car car : cars){
             int time = 0;
             int listSize = car.getRoute().size() - 1;
             for (int i = 1; i <= listSize; i++) {
                 int tempCustomerIndex = car.getRoute().get(i);
+
+
+                    route.add(tempCustomerIndex);
+
+
                 City tempCustomer = Configuration.cities.get(tempCustomerIndex);
                 int tempReadyTime = (int)tempCustomer.getReadyTime();
                 int tempDueTime = (int)tempCustomer.getDueTime();
@@ -294,10 +304,15 @@ public class Ant extends Thread {
             stringBuilder.append(out.toString());
 
         }
+
+        Collections.sort(route);
+
+
         stringBuilder.append("\n");
         stringBuilder.append("objectiveValue : ").append(objectiveValue);
         stringBuilder.append("\n");
         stringBuilder.append("Distance: ").append(distance);
+        //stringBuilder.append("Cities to visit: ").append(cities);
 
         return stringBuilder.toString();
     }
