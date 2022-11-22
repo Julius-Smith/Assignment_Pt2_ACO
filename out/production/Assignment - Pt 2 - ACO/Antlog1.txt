@@ -1,0 +1,1336 @@
+Iteration: 0
+
+Agent: 10 --- 13.11.2022 08:44:27.707
+--- Ant Searching
+
+Agent: 16 --- 13.11.2022 08:44:28.30
+--- Ant Searching
+
+Agent: 3 --- 13.11.2022 08:44:27.699
+--- Ant Searching
+
+Agent: 69 --- 13.11.2022 08:44:28.22
+--- Ant Searching
+
+Agent: 7 --- 13.11.2022 08:44:27.704
+--- Ant Searching
+
+Agent: 9 --- 13.11.2022 08:44:27.729
+--- Ant Searching
+
+Agent: 2 --- 13.11.2022 08:44:27.699
+--- Ant Searching
+
+Agent: 63 --- 13.11.2022 08:44:28.4
+--- Ant Searching
+
+Agent: 8 --- 13.11.2022 08:44:27.706
+--- Ant Searching
+
+Agent: 12 --- 13.11.2022 08:44:27.709
+--- Ant Searching
+
+Agent: 70 --- 13.11.2022 08:44:28.25
+--- Ant Searching
+
+Agent: 0 --- 13.11.2022 08:44:27.699
+--- Ant Searching
+
+Agent: 59 --- 13.11.2022 08:44:27.992
+--- Ant Searching
+
+Agent: 5 --- 13.11.2022 08:44:27.701
+--- Ant Searching
+
+Agent: 14 --- 13.11.2022 08:44:27.710
+--- Ant Searching
+
+Agent: 15 --- 13.11.2022 08:44:27.730
+--- Ant Searching
+
+Agent: 1 --- 13.11.2022 08:44:27.699
+--- Ant Searching
+
+Agent: 6 --- 13.11.2022 08:44:27.704
+--- Ant Searching
+
+Agent: 13 --- 13.11.2022 08:44:27.709
+--- Ant Searching
+
+Agent: 22 --- 13.11.2022 08:44:27.875
+--- Ant Searching
+
+Agent: 4 --- 13.11.2022 08:44:27.700
+--- Ant Searching
+
+Agent: 18 --- 13.11.2022 08:44:27.873
+--- Ant Searching
+
+Agent: 39 --- 13.11.2022 08:44:28.608
+--- Ant Searching
+
+Agent: 17 --- 13.11.2022 08:44:27.874
+--- Ant Searching
+
+Agent: 48 --- 13.11.2022 08:44:27.876
+--- Ant Searching
+
+Agent: 21 --- 13.11.2022 08:44:27.874
+--- Ant Searching
+
+Agent: 47 --- 13.11.2022 08:44:28.639
+--- Ant Searching
+
+Agent: 50 --- 13.11.2022 08:44:27.875
+--- Ant Searching
+
+Agent: 40 --- 13.11.2022 08:44:27.877
+--- Ant Searching
+
+Agent: 49 --- 13.11.2022 08:44:27.876
+--- Ant Searching
+
+Agent: 24 --- 13.11.2022 08:44:28.671
+--- Ant Searching
+
+Agent: 46 --- 13.11.2022 08:44:27.876
+--- Ant Searching
+
+Agent: 30 --- 13.11.2022 08:44:28.681
+--- Ant Searching
+
+Agent: 44 --- 13.11.2022 08:44:27.876
+--- Ant Searching
+
+Agent: 38 --- 13.11.2022 08:44:28.692
+--- Ant Searching
+
+Agent: 27 --- 13.11.2022 08:44:27.879
+--- Ant Searching
+
+Agent: 45 --- 13.11.2022 08:44:27.880
+--- Ant Searching
+
+Agent: 31 --- 13.11.2022 08:44:27.879
+--- Ant Searching
+
+Agent: 26 --- 13.11.2022 08:44:28.715
+--- Ant Searching
+
+Agent: 23 --- 13.11.2022 08:44:27.883
+--- Ant Searching
+
+Agent: 28 --- 13.11.2022 08:44:28.728
+--- Ant Searching
+
+Agent: 25 --- 13.11.2022 08:44:27.885
+--- Ant Searching
+
+Agent: 29 --- 13.11.2022 08:44:28.744
+--- Ant Searching
+
+Agent: 34 --- 13.11.2022 08:44:27.914
+--- Ant Searching
+
+Agent: 32 --- 13.11.2022 08:44:27.902
+--- Ant Searching
+
+Agent: 52 --- 13.11.2022 08:44:27.972
+--- Ant Searching
+
+Agent: 36 --- 13.11.2022 08:44:28.762
+--- Ant Searching
+
+Agent: 35 --- 13.11.2022 08:44:28.768
+--- Ant Searching
+
+Agent: 37 --- 13.11.2022 08:44:27.951
+--- Ant Searching
+
+Agent: 43 --- 13.11.2022 08:44:28.779
+--- Ant Searching
+
+Agent: 20 --- 13.11.2022 08:44:27.961
+--- Ant Searching
+
+Agent: 41 --- 13.11.2022 08:44:27.963
+--- Ant Searching
+
+Agent: 42 --- 13.11.2022 08:44:27.964
+--- Ant Searching
+
+Agent: 51 --- 13.11.2022 08:44:27.967
+--- Ant Searching
+
+Agent: 53 --- 13.11.2022 08:44:27.981
+--- Ant Searching
+
+Agent: 55 --- 13.11.2022 08:44:28.813
+--- Ant Searching
+
+Agent: 56 --- 13.11.2022 08:44:28.824
+--- Ant Searching
+
+Agent: 57 --- 13.11.2022 08:44:28.834
+--- Ant Searching
+
+Agent: 33 --- 13.11.2022 08:44:27.902
+--- Ant Searching
+
+Agent: 71 --- 13.11.2022 08:44:28.26
+--- Ant Searching
+
+Agent: 72 --- 13.11.2022 08:44:28.851
+--- Ant Searching
+
+Agent: 67 --- 13.11.2022 08:44:28.861
+--- Ant Searching
+
+Agent: 68 --- 13.11.2022 08:44:28.860
+--- Ant Searching
+
+Agent: 58 --- 13.11.2022 08:44:28.869
+--- Ant Searching
+
+Agent: 66 --- 13.11.2022 08:44:28.870
+--- Ant Searching
+
+Agent: 65 --- 13.11.2022 08:44:28.874
+--- Ant Searching
+
+Agent: 64 --- 13.11.2022 08:44:28.5
+--- Ant Searching
+
+Agent: 61 --- 13.11.2022 08:44:28.3
+--- Ant Searching
+
+Agent: 60 --- 13.11.2022 08:44:28.891
+--- Ant Searching
+
+Agent: 62 --- 13.11.2022 08:44:28.0
+--- Ant Searching
+
+Agent: 19 --- 13.11.2022 08:44:27.873
+--- Ant Searching
+
+Agent: 54 --- 13.11.2022 08:44:27.983
+--- Ant Searching
+
+Agent: 70 --- 13.11.2022 08:44:44.744
+Done Searching
+
+Agent: 72 --- 13.11.2022 08:44:44.743
+Done Searching
+
+Agent: 69 --- 13.11.2022 08:44:44.761
+Done Searching
+
+Agent: 58 --- 13.11.2022 08:44:44.761
+Done Searching
+
+Agent: 66 --- 13.11.2022 08:44:44.762
+Done Searching
+
+Agent: 65 --- 13.11.2022 08:44:44.762
+Done Searching
+
+Agent: 64 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 63 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 61 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 62 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 60 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 59 --- 13.11.2022 08:44:44.763
+Done Searching
+
+Agent: 57 --- 13.11.2022 08:44:44.764
+Done Searching
+
+Agent: 56 --- 13.11.2022 08:44:44.764
+Done Searching
+
+Agent: 55 --- 13.11.2022 08:44:44.764
+Done Searching
+
+Agent: 53 --- 13.11.2022 08:44:44.764
+Done Searching
+
+Agent: 54 --- 13.11.2022 08:44:44.764
+Done Searching
+
+Agent: 52 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 51 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 30 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 27 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 31 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 38 --- 13.11.2022 08:44:44.765
+Done Searching
+
+Agent: 40 --- 13.11.2022 08:44:44.766
+Done Searching
+
+Agent: 23 --- 13.11.2022 08:44:44.766
+Done Searching
+
+Agent: 24 --- 13.11.2022 08:44:44.766
+Done Searching
+
+Agent: 25 --- 13.11.2022 08:44:44.767
+Done Searching
+
+Agent: 12 --- 13.11.2022 08:44:44.767
+Done Searching
+
+Agent: 71 --- 13.11.2022 08:44:44.744
+Done Searching
+
+Agent: 68 --- 13.11.2022 08:44:44.761
+Done Searching
+
+Agent: 67 --- 13.11.2022 08:44:44.761
+Done Searching
+
+Agent: 26 --- 13.11.2022 08:44:44.772
+Done Searching
+
+Agent: 41 --- 13.11.2022 08:44:44.773
+Done Searching
+
+Agent: 45 --- 13.11.2022 08:44:44.773
+Done Searching
+
+Agent: 49 --- 13.11.2022 08:44:44.774
+Done Searching
+
+Agent: 18 --- 13.11.2022 08:44:44.774
+Done Searching
+
+Agent: 14 --- 13.11.2022 08:44:44.774
+Done Searching
+
+Agent: 8 --- 13.11.2022 08:44:44.774
+Done Searching
+
+Agent: 2 --- 13.11.2022 08:44:44.774
+Done Searching
+
+Agent: 4 --- 13.11.2022 08:44:44.775
+Done Searching
+
+Agent: 1 --- 13.11.2022 08:44:44.776
+Done Searching
+
+Agent: 0 --- 13.11.2022 08:44:44.776
+Done Searching
+
+Agent: 80 --- 13.11.2022 08:44:44.776
+--- Ant Searching
+
+Agent: 79 --- 13.11.2022 08:44:44.776
+--- Ant Searching
+
+Agent: 80 --- 13.11.2022 08:44:44.785
+Done Searching
+
+Agent: 79 --- 13.11.2022 08:44:44.785
+Done Searching
+
+Agent: 11 --- 13.11.2022 08:44:27.707
+--- Ant Searching
+
+Agent: 77 --- 13.11.2022 08:44:44.785
+--- Ant Searching
+
+Agent: 75 --- 13.11.2022 08:44:44.791
+--- Ant Searching
+
+Agent: 11 --- 13.11.2022 08:44:44.795
+Done Searching
+
+Agent: 75 --- 13.11.2022 08:44:44.800
+Done Searching
+
+Agent: 74 --- 13.11.2022 08:44:44.802
+--- Ant Searching
+
+Agent: 77 --- 13.11.2022 08:44:44.803
+Done Searching
+
+Agent: 73 --- 13.11.2022 08:44:44.803
+--- Ant Searching
+
+Agent: 74 --- 13.11.2022 08:44:44.811
+Done Searching
+
+Agent: 78 --- 13.11.2022 08:44:44.811
+--- Ant Searching
+
+Agent: 73 --- 13.11.2022 08:44:44.813
+Done Searching
+
+Agent: 76 --- 13.11.2022 08:44:44.813
+--- Ant Searching
+
+Agent: 78 --- 13.11.2022 08:44:44.820
+Done Searching
+
+Agent: 3 --- 13.11.2022 08:44:44.821
+Done Searching
+
+Agent: 5 --- 13.11.2022 08:44:44.821
+Done Searching
+
+Agent: 6 --- 13.11.2022 08:44:44.821
+Done Searching
+
+Agent: 76 --- 13.11.2022 08:44:44.821
+Done Searching
+
+Agent: 7 --- 13.11.2022 08:44:44.827
+Done Searching
+
+Agent: 9 --- 13.11.2022 08:44:44.828
+Done Searching
+
+Agent: 10 --- 13.11.2022 08:44:44.828
+Done Searching
+
+Agent: 13 --- 13.11.2022 08:44:44.828
+Done Searching
+
+Agent: 15 --- 13.11.2022 08:44:44.828
+Done Searching
+
+Agent: 16 --- 13.11.2022 08:44:44.829
+Done Searching
+
+Agent: 19 --- 13.11.2022 08:44:44.829
+Done Searching
+
+Agent: 17 --- 13.11.2022 08:44:44.829
+Done Searching
+
+Agent: 20 --- 13.11.2022 08:44:44.829
+Done Searching
+
+Agent: 21 --- 13.11.2022 08:44:44.830
+Done Searching
+
+Agent: 22 --- 13.11.2022 08:44:44.830
+Done Searching
+
+Agent: 39 --- 13.11.2022 08:44:44.830
+Done Searching
+
+Agent: 50 --- 13.11.2022 08:44:44.833
+Done Searching
+
+Agent: 28 --- 13.11.2022 08:44:44.840
+Done Searching
+
+Agent: 29 --- 13.11.2022 08:44:44.840
+Done Searching
+
+Agent: 32 --- 13.11.2022 08:44:44.840
+Done Searching
+
+Agent: 33 --- 13.11.2022 08:44:44.839
+Done Searching
+
+Agent: 34 --- 13.11.2022 08:44:44.839
+Done Searching
+
+Agent: 36 --- 13.11.2022 08:44:44.839
+Done Searching
+
+Agent: 35 --- 13.11.2022 08:44:44.839
+Done Searching
+
+Agent: 37 --- 13.11.2022 08:44:44.838
+Done Searching
+
+Agent: 43 --- 13.11.2022 08:44:44.837
+Done Searching
+
+Agent: 42 --- 13.11.2022 08:44:44.837
+Done Searching
+
+Agent: 44 --- 13.11.2022 08:44:44.837
+Done Searching
+
+Agent: 46 --- 13.11.2022 08:44:44.836
+Done Searching
+
+Agent: 47 --- 13.11.2022 08:44:44.835
+Done Searching
+
+Agent: 48 --- 13.11.2022 08:44:44.834
+Done Searching
+
+Agent: 81 --- 13.11.2022 08:44:44.930
+--- Ant Searching
+
+Agent: 81 --- 13.11.2022 08:44:44.939
+Done Searching
+
+Agent: 82 --- 13.11.2022 08:44:44.942
+--- Ant Searching
+
+Agent: 82 --- 13.11.2022 08:44:44.949
+Done Searching
+
+Agent: 84 --- 13.11.2022 08:44:44.974
+--- Ant Searching
+
+Agent: 84 --- 13.11.2022 08:44:44.995
+Done Searching
+
+Agent: 86 --- 13.11.2022 08:44:45.3
+--- Ant Searching
+
+Agent: 86 --- 13.11.2022 08:44:45.97
+Done Searching
+
+Agent: 87 --- 13.11.2022 08:44:45.120
+--- Ant Searching
+
+Agent: 87 --- 13.11.2022 08:44:45.128
+Done Searching
+
+Agent: 88 --- 13.11.2022 08:44:45.133
+--- Ant Searching
+
+Agent: 88 --- 13.11.2022 08:44:45.141
+Done Searching
+
+Agent: 89 --- 13.11.2022 08:44:45.143
+--- Ant Searching
+
+Agent: 89 --- 13.11.2022 08:44:45.150
+Done Searching
+
+Agent: 90 --- 13.11.2022 08:44:45.153
+--- Ant Searching
+
+Agent: 90 --- 13.11.2022 08:44:45.163
+Done Searching
+
+Agent: 92 --- 13.11.2022 08:44:45.167
+--- Ant Searching
+
+Agent: 92 --- 13.11.2022 08:44:45.174
+Done Searching
+
+Agent: 94 --- 13.11.2022 08:44:45.176
+--- Ant Searching
+
+Agent: 94 --- 13.11.2022 08:44:45.187
+Done Searching
+
+Agent: 96 --- 13.11.2022 08:44:45.224
+--- Ant Searching
+
+Agent: 96 --- 13.11.2022 08:44:45.239
+Done Searching
+
+Agent: 98 --- 13.11.2022 08:44:45.241
+--- Ant Searching
+
+Agent: 83 --- 13.11.2022 08:44:45.250
+--- Ant Searching
+
+Agent: 98 --- 13.11.2022 08:44:45.250
+Done Searching
+
+Agent: 85 --- 13.11.2022 08:44:45.254
+--- Ant Searching
+
+Agent: 83 --- 13.11.2022 08:44:45.265
+Done Searching
+
+Agent: 85 --- 13.11.2022 08:44:45.270
+Done Searching
+
+Agent: 91 --- 13.11.2022 08:44:45.277
+--- Ant Searching
+
+Agent: 91 --- 13.11.2022 08:44:45.279
+Done Searching
+
+Agent: 93 --- 13.11.2022 08:44:45.278
+--- Ant Searching
+
+Agent: 93 --- 13.11.2022 08:44:45.284
+Done Searching
+
+Agent: 95 --- 13.11.2022 08:44:45.286
+--- Ant Searching
+
+Agent: 95 --- 13.11.2022 08:44:45.288
+Done Searching
+
+Agent: 97 --- 13.11.2022 08:44:45.287
+--- Ant Searching
+
+Agent: 99 --- 13.11.2022 08:44:45.293
+--- Ant Searching
+
+Agent: 97 --- 13.11.2022 08:44:45.292
+Done Searching
+
+Agent: 99 --- 13.11.2022 08:44:45.296
+Done Searching
+
+Iteration: 1
+
+Agent: 1 --- 13.11.2022 08:45:53.798
+--- Ant Searching
+
+Agent: 1 --- 13.11.2022 08:45:53.800
+Done Searching
+
+Agent: 0 --- 13.11.2022 08:45:53.798
+--- Ant Searching
+
+Agent: 2 --- 13.11.2022 08:45:53.806
+--- Ant Searching
+
+Agent: 2 --- 13.11.2022 08:45:53.808
+Done Searching
+
+Agent: 3 --- 13.11.2022 08:45:53.809
+--- Ant Searching
+
+Agent: 3 --- 13.11.2022 08:45:53.811
+Done Searching
+
+Agent: 4 --- 13.11.2022 08:45:53.811
+--- Ant Searching
+
+Agent: 6 --- 13.11.2022 08:45:53.812
+--- Ant Searching
+
+Agent: 4 --- 13.11.2022 08:45:53.813
+Done Searching
+
+Agent: 6 --- 13.11.2022 08:45:53.813
+Done Searching
+
+Agent: 9 --- 13.11.2022 08:45:53.814
+--- Ant Searching
+
+Agent: 8 --- 13.11.2022 08:45:53.815
+--- Ant Searching
+
+Agent: 9 --- 13.11.2022 08:45:53.816
+Done Searching
+
+Agent: 5 --- 13.11.2022 08:45:53.817
+--- Ant Searching
+
+Agent: 8 --- 13.11.2022 08:45:53.817
+Done Searching
+
+Agent: 7 --- 13.11.2022 08:45:53.818
+--- Ant Searching
+
+Agent: 5 --- 13.11.2022 08:45:53.819
+Done Searching
+
+Agent: 0 --- 13.11.2022 08:45:53.819
+Done Searching
+
+Agent: 7 --- 13.11.2022 08:45:53.820
+Done Searching
+
+Agent: 10 --- 13.11.2022 08:45:53.820
+--- Ant Searching
+
+Agent: 11 --- 13.11.2022 08:45:53.820
+--- Ant Searching
+
+Agent: 12 --- 13.11.2022 08:45:53.821
+--- Ant Searching
+
+Agent: 11 --- 13.11.2022 08:45:53.822
+Done Searching
+
+Agent: 10 --- 13.11.2022 08:45:53.822
+Done Searching
+
+Agent: 13 --- 13.11.2022 08:45:53.823
+--- Ant Searching
+
+Agent: 12 --- 13.11.2022 08:45:53.823
+Done Searching
+
+Agent: 15 --- 13.11.2022 08:45:53.823
+--- Ant Searching
+
+Agent: 16 --- 13.11.2022 08:45:53.824
+--- Ant Searching
+
+Agent: 13 --- 13.11.2022 08:45:53.825
+Done Searching
+
+Agent: 15 --- 13.11.2022 08:45:53.825
+Done Searching
+
+Agent: 18 --- 13.11.2022 08:45:53.825
+--- Ant Searching
+
+Agent: 16 --- 13.11.2022 08:45:53.826
+Done Searching
+
+Agent: 19 --- 13.11.2022 08:45:53.826
+--- Ant Searching
+
+Agent: 18 --- 13.11.2022 08:45:53.827
+Done Searching
+
+Agent: 19 --- 13.11.2022 08:45:53.828
+Done Searching
+
+Agent: 21 --- 13.11.2022 08:45:53.828
+--- Ant Searching
+
+Agent: 21 --- 13.11.2022 08:45:53.830
+Done Searching
+
+Agent: 22 --- 13.11.2022 08:45:53.830
+--- Ant Searching
+
+Agent: 22 --- 13.11.2022 08:45:53.832
+Done Searching
+
+Agent: 27 --- 13.11.2022 08:45:53.833
+--- Ant Searching
+
+Agent: 24 --- 13.11.2022 08:45:53.832
+--- Ant Searching
+
+Agent: 27 --- 13.11.2022 08:45:53.835
+Done Searching
+
+Agent: 28 --- 13.11.2022 08:45:53.835
+--- Ant Searching
+
+Agent: 24 --- 13.11.2022 08:45:53.835
+Done Searching
+
+Agent: 29 --- 13.11.2022 08:45:53.836
+--- Ant Searching
+
+Agent: 32 --- 13.11.2022 08:45:53.836
+--- Ant Searching
+
+Agent: 28 --- 13.11.2022 08:45:53.837
+Done Searching
+
+Agent: 33 --- 13.11.2022 08:45:53.837
+--- Ant Searching
+
+Agent: 29 --- 13.11.2022 08:45:53.838
+Done Searching
+
+Agent: 34 --- 13.11.2022 08:45:53.838
+--- Ant Searching
+
+Agent: 32 --- 13.11.2022 08:45:53.839
+Done Searching
+
+Agent: 33 --- 13.11.2022 08:45:53.840
+Done Searching
+
+Agent: 34 --- 13.11.2022 08:45:53.840
+Done Searching
+
+Agent: 35 --- 13.11.2022 08:45:53.840
+--- Ant Searching
+
+Agent: 38 --- 13.11.2022 08:45:53.840
+--- Ant Searching
+
+Agent: 39 --- 13.11.2022 08:45:53.841
+--- Ant Searching
+
+Agent: 35 --- 13.11.2022 08:45:53.842
+Done Searching
+
+Agent: 38 --- 13.11.2022 08:45:53.842
+Done Searching
+
+Agent: 40 --- 13.11.2022 08:45:53.843
+--- Ant Searching
+
+Agent: 43 --- 13.11.2022 08:45:53.843
+--- Ant Searching
+
+Agent: 39 --- 13.11.2022 08:45:53.844
+Done Searching
+
+Agent: 45 --- 13.11.2022 08:45:53.844
+--- Ant Searching
+
+Agent: 43 --- 13.11.2022 08:45:53.845
+Done Searching
+
+Agent: 45 --- 13.11.2022 08:45:53.846
+Done Searching
+
+Agent: 40 --- 13.11.2022 08:45:53.846
+Done Searching
+
+Agent: 46 --- 13.11.2022 08:45:53.847
+--- Ant Searching
+
+Agent: 49 --- 13.11.2022 08:45:53.847
+--- Ant Searching
+
+Agent: 49 --- 13.11.2022 08:45:53.849
+Done Searching
+
+Agent: 46 --- 13.11.2022 08:45:53.849
+Done Searching
+
+Agent: 48 --- 13.11.2022 08:45:53.847
+--- Ant Searching
+
+Agent: 50 --- 13.11.2022 08:45:53.850
+--- Ant Searching
+
+Agent: 51 --- 13.11.2022 08:45:53.850
+--- Ant Searching
+
+Agent: 48 --- 13.11.2022 08:45:53.851
+Done Searching
+
+Agent: 50 --- 13.11.2022 08:45:53.852
+Done Searching
+
+Agent: 52 --- 13.11.2022 08:45:53.852
+--- Ant Searching
+
+Agent: 54 --- 13.11.2022 08:45:53.852
+--- Ant Searching
+
+Agent: 51 --- 13.11.2022 08:45:53.852
+Done Searching
+
+Agent: 56 --- 13.11.2022 08:45:53.853
+--- Ant Searching
+
+Agent: 52 --- 13.11.2022 08:45:53.853
+Done Searching
+
+Agent: 54 --- 13.11.2022 08:45:53.854
+Done Searching
+
+Agent: 57 --- 13.11.2022 08:45:53.854
+--- Ant Searching
+
+Agent: 60 --- 13.11.2022 08:45:53.854
+--- Ant Searching
+
+Agent: 56 --- 13.11.2022 08:45:53.854
+Done Searching
+
+Agent: 61 --- 13.11.2022 08:45:53.855
+--- Ant Searching
+
+Agent: 57 --- 13.11.2022 08:45:53.856
+Done Searching
+
+Agent: 60 --- 13.11.2022 08:45:53.856
+Done Searching
+
+Agent: 63 --- 13.11.2022 08:45:53.856
+--- Ant Searching
+
+Agent: 66 --- 13.11.2022 08:45:53.857
+--- Ant Searching
+
+Agent: 61 --- 13.11.2022 08:45:53.857
+Done Searching
+
+Agent: 68 --- 13.11.2022 08:45:53.857
+--- Ant Searching
+
+Agent: 66 --- 13.11.2022 08:45:53.858
+Done Searching
+
+Agent: 63 --- 13.11.2022 08:45:53.858
+Done Searching
+
+Agent: 68 --- 13.11.2022 08:45:53.859
+Done Searching
+
+Agent: 70 --- 13.11.2022 08:45:53.859
+--- Ant Searching
+
+Agent: 74 --- 13.11.2022 08:45:53.860
+--- Ant Searching
+
+Agent: 76 --- 13.11.2022 08:45:53.860
+--- Ant Searching
+
+Agent: 70 --- 13.11.2022 08:45:53.861
+Done Searching
+
+Agent: 78 --- 13.11.2022 08:45:53.862
+--- Ant Searching
+
+Agent: 74 --- 13.11.2022 08:45:53.862
+Done Searching
+
+Agent: 75 --- 13.11.2022 08:45:53.862
+--- Ant Searching
+
+Agent: 76 --- 13.11.2022 08:45:53.864
+Done Searching
+
+Agent: 78 --- 13.11.2022 08:45:53.864
+Done Searching
+
+Agent: 77 --- 13.11.2022 08:45:53.864
+--- Ant Searching
+
+Agent: 81 --- 13.11.2022 08:45:53.864
+--- Ant Searching
+
+Agent: 75 --- 13.11.2022 08:45:53.864
+Done Searching
+
+Agent: 82 --- 13.11.2022 08:45:53.865
+--- Ant Searching
+
+Agent: 77 --- 13.11.2022 08:45:53.866
+Done Searching
+
+Agent: 83 --- 13.11.2022 08:45:53.867
+--- Ant Searching
+
+Agent: 82 --- 13.11.2022 08:45:53.867
+Done Searching
+
+Agent: 81 --- 13.11.2022 08:45:53.867
+Done Searching
+
+Agent: 89 --- 13.11.2022 08:45:53.867
+--- Ant Searching
+
+Agent: 86 --- 13.11.2022 08:45:53.867
+--- Ant Searching
+
+Agent: 88 --- 13.11.2022 08:45:53.868
+--- Ant Searching
+
+Agent: 83 --- 13.11.2022 08:45:53.869
+Done Searching
+
+Agent: 89 --- 13.11.2022 08:45:53.869
+Done Searching
+
+Agent: 88 --- 13.11.2022 08:45:53.870
+Done Searching
+
+Agent: 92 --- 13.11.2022 08:45:53.870
+--- Ant Searching
+
+Agent: 86 --- 13.11.2022 08:45:53.870
+Done Searching
+
+Agent: 95 --- 13.11.2022 08:45:53.870
+--- Ant Searching
+
+Agent: 90 --- 13.11.2022 08:45:53.870
+--- Ant Searching
+
+Agent: 92 --- 13.11.2022 08:45:53.872
+Done Searching
+
+Agent: 95 --- 13.11.2022 08:45:53.872
+Done Searching
+
+Agent: 96 --- 13.11.2022 08:45:53.873
+--- Ant Searching
+
+Agent: 90 --- 13.11.2022 08:45:53.873
+Done Searching
+
+Agent: 99 --- 13.11.2022 08:45:53.873
+--- Ant Searching
+
+Agent: 14 --- 13.11.2022 08:45:53.874
+--- Ant Searching
+
+Agent: 96 --- 13.11.2022 08:45:53.875
+Done Searching
+
+Agent: 99 --- 13.11.2022 08:45:53.875
+Done Searching
+
+Agent: 17 --- 13.11.2022 08:45:53.875
+--- Ant Searching
+
+Agent: 23 --- 13.11.2022 08:45:53.876
+--- Ant Searching
+
+Agent: 14 --- 13.11.2022 08:45:53.876
+Done Searching
+
+Agent: 17 --- 13.11.2022 08:45:53.877
+Done Searching
+
+Agent: 23 --- 13.11.2022 08:45:53.878
+Done Searching
+
+Agent: 25 --- 13.11.2022 08:45:53.878
+--- Ant Searching
+
+Agent: 31 --- 13.11.2022 08:45:53.879
+--- Ant Searching
+
+Agent: 31 --- 13.11.2022 08:45:53.881
+Done Searching
+
+Agent: 36 --- 13.11.2022 08:45:53.882
+--- Ant Searching
+
+Agent: 37 --- 13.11.2022 08:45:53.882
+--- Ant Searching
+
+Agent: 25 --- 13.11.2022 08:45:53.882
+Done Searching
+
+Agent: 41 --- 13.11.2022 08:45:53.883
+--- Ant Searching
+
+Agent: 36 --- 13.11.2022 08:45:53.883
+Done Searching
+
+Agent: 37 --- 13.11.2022 08:45:53.884
+Done Searching
+
+Agent: 44 --- 13.11.2022 08:45:53.884
+--- Ant Searching
+
+Agent: 47 --- 13.11.2022 08:45:53.884
+--- Ant Searching
+
+Agent: 53 --- 13.11.2022 08:45:53.884
+--- Ant Searching
+
+Agent: 41 --- 13.11.2022 08:45:53.885
+Done Searching
+
+Agent: 58 --- 13.11.2022 08:45:53.886
+--- Ant Searching
+
+Agent: 44 --- 13.11.2022 08:45:53.886
+Done Searching
+
+Agent: 47 --- 13.11.2022 08:45:53.886
+Done Searching
+
+Agent: 53 --- 13.11.2022 08:45:53.886
+Done Searching
+
+Agent: 62 --- 13.11.2022 08:45:53.887
+--- Ant Searching
+
+Agent: 64 --- 13.11.2022 08:45:53.887
+--- Ant Searching
+
+Agent: 58 --- 13.11.2022 08:45:53.888
+Done Searching
+
+Agent: 65 --- 13.11.2022 08:45:53.888
+--- Ant Searching
+
+Agent: 62 --- 13.11.2022 08:45:53.889
+Done Searching
+
+Agent: 64 --- 13.11.2022 08:45:53.889
+Done Searching
+
+Agent: 67 --- 13.11.2022 08:45:53.890
+--- Ant Searching
+
+Agent: 65 --- 13.11.2022 08:45:53.890
+Done Searching
+
+Agent: 71 --- 13.11.2022 08:45:53.891
+--- Ant Searching
+
+Agent: 69 --- 13.11.2022 08:45:53.891
+--- Ant Searching
+
+Agent: 67 --- 13.11.2022 08:45:53.892
+Done Searching
+
+Agent: 71 --- 13.11.2022 08:45:53.892
+Done Searching
+
+Agent: 72 --- 13.11.2022 08:45:53.893
+--- Ant Searching
+
+Agent: 69 --- 13.11.2022 08:45:53.893
+Done Searching
+
+Agent: 73 --- 13.11.2022 08:45:53.893
+--- Ant Searching
+
+Agent: 79 --- 13.11.2022 08:45:53.894
+--- Ant Searching
+
+Agent: 72 --- 13.11.2022 08:45:53.895
+Done Searching
+
+Agent: 84 --- 13.11.2022 08:45:53.895
+--- Ant Searching
+
+Agent: 73 --- 13.11.2022 08:45:53.895
+Done Searching
+
+Agent: 79 --- 13.11.2022 08:45:53.896
+Done Searching
+
+Agent: 85 --- 13.11.2022 08:45:53.896
+--- Ant Searching
+
+Agent: 84 --- 13.11.2022 08:45:53.897
+Done Searching
+
+Agent: 93 --- 13.11.2022 08:45:53.897
+--- Ant Searching
+
+Agent: 97 --- 13.11.2022 08:45:53.898
+--- Ant Searching
+
+Agent: 85 --- 13.11.2022 08:45:53.898
+Done Searching
+
+Agent: 98 --- 13.11.2022 08:45:53.898
+--- Ant Searching
+
+Agent: 20 --- 13.11.2022 08:45:53.898
+--- Ant Searching
+
+Agent: 93 --- 13.11.2022 08:45:53.899
+Done Searching
+
+Agent: 97 --- 13.11.2022 08:45:53.900
+Done Searching
+
+Agent: 98 --- 13.11.2022 08:45:53.900
+Done Searching
+
+Agent: 26 --- 13.11.2022 08:45:53.900
+--- Ant Searching
+
+Agent: 42 --- 13.11.2022 08:45:53.900
+--- Ant Searching
+
+Agent: 20 --- 13.11.2022 08:45:53.900
+Done Searching
+
+Agent: 55 --- 13.11.2022 08:45:53.901
+--- Ant Searching
+
+Agent: 26 --- 13.11.2022 08:45:53.902
+Done Searching
+
+Agent: 42 --- 13.11.2022 08:45:53.902
+Done Searching
+
+Agent: 55 --- 13.11.2022 08:45:53.903
+Done Searching
+
+Agent: 80 --- 13.11.2022 08:45:53.904
+--- Ant Searching
+
+Agent: 94 --- 13.11.2022 08:45:53.904
+--- Ant Searching
+
+Agent: 30 --- 13.11.2022 08:45:53.904
+--- Ant Searching
+
+Agent: 80 --- 13.11.2022 08:45:53.906
+Done Searching
+
+Agent: 30 --- 13.11.2022 08:45:53.906
+Done Searching
+
+Agent: 94 --- 13.11.2022 08:45:53.906
+Done Searching
+
+Agent: 59 --- 13.11.2022 08:45:53.906
+--- Ant Searching
+
+Agent: 87 --- 13.11.2022 08:45:53.906
+--- Ant Searching
+
+Agent: 91 --- 13.11.2022 08:45:53.907
+--- Ant Searching
+
+Agent: 87 --- 13.11.2022 08:45:53.908
+Done Searching
+
+Agent: 59 --- 13.11.2022 08:45:53.908
+Done Searching
+
+Agent: 91 --- 13.11.2022 08:45:53.909
+Done Searching
+
+Iteration: 2
+
+Agent: 0 --- 13.11.2022 08:45:53.926
+--- Ant Searching
+
+Agent: 0 --- 13.11.2022 08:45:53.930
+Done Searching
+
+Agent: 1 --- 13.11.2022 08:45:53.930
+--- Ant Searching
+
+Agent: 2 --- 13.11.2022 08:45:53.931
+--- Ant Searching
+
+Agent: 1 --- 13.11.2022 08:45:53.933
+Done Searching
+
+Agent: 2 --- 13.11.2022 08:45:53.934
+Done Searching
+
+Agent: 3 --- 13.11.2022 08:45:53.934
+--- Ant Searching
+
+Agent: 4 --- 13.11.2022 08:45:53.934
+--- Ant Searching
+
+Agent: 5 --- 13.11.2022 08:45:53.934
+--- Ant Searching
+
+Agent: 3 --- 13.11.2022 08:45:53.936
+Done Searching
+
+Agent: 4 --- 13.11.2022 08:45:53.936
+Done Searching
+
+Agent: 6 --- 13.11.2022 08:45:53.936
+--- Ant Searching
+
+Agent: 7 --- 13.11.2022 08:45:53.937
+--- Ant Searching
+
+Agent: 5 --- 13.11.2022 08:45:53.937
+Done Searching
+
+Agent: 7 --- 13.11.2022 08:45:53.939
+Done Searching
+
+Agent: 6 --- 13.11.2022 08:45:53.939
+Done Searching
+
+Agent: 8 --- 13.11.2022 08:45:53.940
+--- Ant Searching
+
+Agent: 9 --- 13.11.2022 08:45:53.940
+--- Ant Searching
+
+Agent: 11 --- 13.11.2022 08:45:53.940
+--- Ant Searching
+
+Agent: 12 --- 13.11.2022 08:45:53.940
+--- Ant Searching
+
+Agent: 8 --- 13.11.2022 08:45:53.942
+Done Searching
+
+Agent: 9 --- 13.11.2022 08:45:53.942
+Done Searching
+
+Agent: 13 --- 13.11.2022 08:45:53.942
+--- Ant Searching
+
+Agent: 11 --- 13.11.2022 08:45:53.942
+Done Searching
+
+Agent: 12 --- 13.11.2022 08:45:53.943
+Done Searching
+
+Agent: 15 --- 13.11.2022 08:45:53.943
+--- Ant Searching
+
+Agent: 17 --- 13.11.2022 08:45:53.943
+--- Ant Searching
+
+Agent: 19 --- 13.11.2022 08:45:53.943
+--- Ant Searching
+
+Agent: 13 --- 13.11.2022 08:45:53.944
+Done Searching
+
+Agent: 15 --- 13.11.2022 08:45:53.945
+Done Searching
+
+Agent: 20 --- 13.11.2022 08:45:53.945
+--- Ant Searching
+
+Agent: 19 --- 13.11.2022 08:45:53.946
+Done Searching
+
+Agent: 17 --- 13.11.2022 08:45:53.946
+Done Searching
+
+Agent: 22 --- 13.11.2022 08:45:53.946
+--- Ant Searching
+
+Agent: 24 --- 13.11.2022 08:45:53.947
+--- Ant Searching
+
+Agent: 25 --- 13.11.2022 08:45:53.947
+--- Ant Searching
+
+Agent: 20 --- 13.11.2022 08:45:53.948
+Done Searching
+
+Agent: 26 --- 13.11.2022 08:45:53.948
+--- Ant Searching
+
+Agent: 24 --- 13.11.2022 08:45:53.949
+Done Searching
+
+Agent: 25 --- 13.11.2022 08:45:53.949
+Done Searching
+
+Agent: 22 --- 13.11.2022 08:45:53.949
+Done Searching
+
+Agent: 28 --- 13.11.2022 08:45:53.949
+--- Ant Searching
+
+Agent: 32 --- 13.11.2022 08:45:53.949
+--- Ant Searching
+
+Agent: 26 --- 13.1

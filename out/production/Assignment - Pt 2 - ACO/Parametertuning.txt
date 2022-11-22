@@ -1,0 +1,6755 @@
+Ants: 20
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  479563.74947318755
+
+Ants: 20
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  342342.8717683511
+
+Ants: 20
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  334170.2196796744
+
+Ants: 20
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  303152.9281999795
+
+Ants: 20
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  248979.7664501282
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1673.6943168823339
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  126028.49755590258
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  120164.18694489608
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  89079.45487439597
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  143989.9919304031
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1685.0083976294513
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1710.0810736781063
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  205033.31359770417
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  58070.38371999908
+
+Ants: 20
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  134998.1914704059
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  22816.709872361622
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1805.0477097377973
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  1787.4952283911393
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  190006.206356431
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  151197.0837232198
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  13839.867651701656
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  13877.716630277067
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  45823.49151403017
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  158953.26117584406
+
+Ants: 20
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  165041.24407835363
+
+Ants: 20
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  232556.6110793633
+
+Ants: 20
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  178367.4099644161
+
+Ants: 20
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  326208.9722002696
+
+Ants: 20
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  333385.504976041
+
+Ants: 20
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  196510.06319707955
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1646.8752309143063
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  20018.03487493078
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  156112.89995024743
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  190090.0941426334
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  148062.02544782482
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1911.1772313573142
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  106858.97203090307
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  92968.05312728726
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  254152.56658764402
+
+Ants: 20
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  124011.87359558226
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  261947.45379743556
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  319035.4305415911
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  88902.10770464048
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  149992.1668624109
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  248026.36889119144
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  79791.11110271045
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  429892.309415124
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  10891.370361244846
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  232958.4460460802
+
+Ants: 20
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  112089.04394483747
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  136016.86273301867
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  382387.8619729713
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  91416.03000568452
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  245373.2578903285
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  244555.12969457076
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  111004.1468432208
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  198278.8362287236
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  390221.239976996
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  118864.43593934295
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  223981.25570616836
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1704.0318052213254
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  112878.29520148021
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  114965.81994377449
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  290055.72489878663
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  88935.30259292043
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  90892.71416583698
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  82793.5273521677
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  281942.3431356779
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  227077.23524622165
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  155075.01941470781
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  21944.578540740407
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1948.6073353785148
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  125796.82071871882
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  343974.26705627475
+
+Ants: 20
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  249981.3412329159
+
+Ants: 20
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  432628.01330392173
+
+Ants: 20
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  254337.4371080106
+
+Ants: 20
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  191254.108155128
+
+Ants: 20
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  364288.4877191699
+
+Ants: 20
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  242310.71777403846
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1724.4028577098302
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1689.9637170650262
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  200259.09425332336
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  277058.612231756
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  236081.82121436996
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  256820.94989611945
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1753.2744421464822
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  209020.0638379895
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  145023.1041078127
+
+Ants: 20
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  139215.97085554842
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  141966.86191788837
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  251944.36982888088
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  114847.48712688532
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  209996.8308597926
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  112912.16716381427
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  178938.75661345143
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  44837.064972002736
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  231146.37806655106
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  88820.98415413174
+
+Ants: 20
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  287023.61802692956
+
+Ants: 20
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  316137.81378366414
+
+Ants: 20
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  383398.54226962005
+
+Ants: 20
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  289220.48679131735
+
+Ants: 20
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  266060.6484231298
+
+Ants: 20
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  259268.19210729588
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  153915.97586685428
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  67999.02279793634
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  119164.23251545288
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  200265.2396126375
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  150916.62294176273
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1878.8132664942939
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1881.776442223238
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  263952.4892127405
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  91882.62053529084
+
+Ants: 20
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  88842.50599208253
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  209000.21484603058
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  227875.80985495893
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  194206.7533279546
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  270042.1874240955
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  219948.79162295116
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1880.2594215335423
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  253200.97447417898
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  373030.482691293
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  1867.810847658048
+
+Ants: 20
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  349144.52697214566
+
+Ants: 20
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  180238.75864254925
+
+Ants: 20
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  92316.15013508449
+
+Ants: 20
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  260066.3343862316
+
+Ants: 20
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  288251.28340447304
+
+Ants: 20
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  246427.62047194954
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  59985.591597128136
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  229930.9080657693
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  203142.33641585257
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  146136.97832008742
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  267933.23305014626
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  294134.45480428037
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  163816.72224108482
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  132213.03365950208
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  165008.59406577647
+
+Ants: 20
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  154883.21064770396
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  227241.4194935844
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  418177.627741072
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  2007.039568924687
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  582094.2590915995
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  228051.6665976836
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  261042.88705193487
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  390100.0738568528
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  131889.4679686895
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  350186.199128957
+
+Ants: 20
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  213203.07817378058
+
+Ants: 20
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  193199.28192026532
+
+Ants: 20
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  183159.41865814215
+
+Ants: 20
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  200194.91252922543
+
+Ants: 20
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  203109.29346940192
+
+Ants: 20
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  160245.22311471956
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  212955.95500940626
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  184023.62107656364
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  322083.63439045445
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  258027.70385429892
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  202013.9684588342
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  13674.517707962917
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1909.6357383857608
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  322171.19735776767
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  327042.0068439029
+
+Ants: 20
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  336098.42400379875
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  223939.50444332627
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  444895.13551564305
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  123932.88887880665
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  175915.6604600822
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  250944.3822009009
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  101996.15026223644
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  162085.24450962842
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  342848.0109985799
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  145916.80684464241
+
+Ants: 20
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  2034.7309967807437
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  321128.34977426805
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  174161.25805683076
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  230204.97923024982
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  250253.54313516192
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  182133.90426224683
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  131965.90852791964
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  307137.6446494355
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  331098.9979394941
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  281060.22965166956
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  143025.70653011804
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  40770.8276971989
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  211886.94712361853
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  191917.82361975627
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  197925.35967087877
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  276175.96505141247
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  489036.8009594658
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1897.411260241589
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  46979.857730826676
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  116787.01473229974
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  194015.61446825197
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  27937.401780305554
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  214931.5053019819
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  496030.97383211076
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  159877.80120140227
+
+Ants: 20
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  105885.66005972165
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  243222.36812772087
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  332226.48806419363
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  281111.8381609091
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  241237.8258743117
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  323208.84955499234
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  298093.3401608552
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  128946.30702123034
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  230094.71230316855
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  224019.04016329607
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  329974.64425734413
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  421041.9148890707
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1798.0932360055776
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  425296.00649086945
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  345132.42209637846
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  148927.56037981555
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  9066.515662108195
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  132853.98551784502
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  569334.2407264707
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  260980.87142929996
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  358120.89978854766
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  311041.2008926964
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  283962.8692353323
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  362106.84061167337
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  267010.54576068174
+
+Ants: 20
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  321013.9038778188
+
+Ants: 40
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  378604.3533309679
+
+Ants: 40
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  218412.54730714468
+
+Ants: 40
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  346370.86237685574
+
+Ants: 40
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  94018.4928021409
+
+Ants: 40
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  216108.38609614776
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  48041.1550790931
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  40889.84263390339
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  111047.33889128103
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  194240.51043960723
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  185279.05887905636
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1734.5857812950157
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  141094.78659553023
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  197004.2084927313
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  121916.38803197621
+
+Ants: 40
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  138047.80327305172
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1831.129542580246
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  154820.25925476314
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  176178.11119319117
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  157984.45123617552
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  123071.06103849791
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1815.4691109225773
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  158037.9883530799
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  139011.30938254378
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  1881.6555603948557
+
+Ants: 40
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  350961.6046621655
+
+Ants: 40
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  279368.76631565584
+
+Ants: 40
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  318325.76607158565
+
+Ants: 40
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  203150.35908598622
+
+Ants: 40
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  264369.74009085225
+
+Ants: 40
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  244251.67910298155
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1643.3172119927601
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  65863.74079357325
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  84904.8224061402
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  135034.68377445286
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  132979.34405281133
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1689.6984980326129
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  136883.28114255995
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  186046.8336944939
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  121012.16469963542
+
+Ants: 40
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  108963.106984586
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1835.430167162529
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1811.0843404203808
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  138974.00975486723
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  2018.219900866015
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  107033.72555857136
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1714.7910668726583
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  26790.66874546821
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  143034.5396601615
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  570887.5268009764
+
+Ants: 40
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  1872.2602242258913
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  210319.91415819232
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  171304.51479819242
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  181409.05342368814
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  180192.54055328452
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  169254.0447362355
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1671.9277452962192
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1846.5970003211958
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  140989.6015910847
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  200102.42071202502
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  169200.27095728889
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  145819.0673368054
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1764.946770242586
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  165911.99622403167
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  90028.57412449893
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  106872.03369589664
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1890.0893161339218
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  124926.13658971708
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  138908.35743422245
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  117971.72652089654
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  190903.2541085793
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  175801.84809535724
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  114821.17285609132
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  1914.006765476829
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  225186.21807215462
+
+Ants: 40
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  1930.6643741283406
+
+Ants: 40
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  217215.9712188816
+
+Ants: 40
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  177402.49451127026
+
+Ants: 40
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  267247.7288414618
+
+Ants: 40
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  190040.13274831566
+
+Ants: 40
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  255456.88546313852
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1653.0473468678558
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  13927.06314737811
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  132825.60225155714
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  156967.24054638005
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  96146.93894179493
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  124932.94364266687
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  171960.6949155684
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  1766.2108204236456
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  129969.08205942188
+
+Ants: 40
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  111187.70343668817
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  328054.2698392196
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  195944.71688817546
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  294202.5506924977
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  110020.29712507433
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  167064.83030329418
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1806.014547770184
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  2031.041865524181
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  1806.8167534344404
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  228160.71001126713
+
+Ants: 40
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  138179.39871986007
+
+Ants: 40
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  221247.48317820896
+
+Ants: 40
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  176341.31476121847
+
+Ants: 40
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  341205.14183288434
+
+Ants: 40
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  297409.8736855977
+
+Ants: 40
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  207186.00004367382
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1670.9053761969335
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1628.141348900503
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  133005.5516432476
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  214100.91981632248
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  244193.97692401725
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1687.1300553061453
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1773.0066639030713
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  97991.59528257394
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  274027.70767976233
+
+Ants: 40
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  117006.75448108981
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  50771.560119061
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1881.0054892246662
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  161861.18147792344
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  102912.55647148682
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  1989.910867134062
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  8056.083424575715
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  390910.8647398994
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  222909.64032391924
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  383050.6244587319
+
+Ants: 40
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  108903.15073696901
+
+Ants: 40
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  142247.93968947796
+
+Ants: 40
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  321523.9393673333
+
+Ants: 40
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  182064.43435783597
+
+Ants: 40
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  323226.5818315771
+
+Ants: 40
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  209963.8778994052
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1753.5770455844652
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1754.1515647235428
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  120093.3240785286
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  117138.49909542239
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  195173.66488299402
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  154857.45248975436
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  95804.57185792467
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  183979.50990291644
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  171935.34866231936
+
+Ants: 40
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  163032.4222878967
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1875.461957798298
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1943.0390546490416
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  140868.6671366966
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  141911.90543949904
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  125881.73563085764
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  26715.017622831478
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1817.3792243252867
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  178034.4522997667
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  140979.76677760892
+
+Ants: 40
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  402119.7846244124
+
+Ants: 40
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  215329.64130583883
+
+Ants: 40
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  212218.31339293404
+
+Ants: 40
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  209132.88804840832
+
+Ants: 40
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  244289.64158204137
+
+Ants: 40
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  293307.170143744
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1765.9998635870331
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  262067.2343257699
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  175981.92277893523
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  239044.64937237275
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  198022.74308076204
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  13692.89504803547
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  202775.79127041393
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  1935.9668653645722
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  313084.2118627115
+
+Ants: 40
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  1833.8906841842734
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1722.8268994026457
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1817.6920525595538
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  131132.55247858205
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  97010.27390647802
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  215147.14015235286
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  393904.90796624037
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1992.4837288349788
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  161873.70810907672
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  148946.8624196119
+
+Ants: 40
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  180025.01294343057
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  271378.9675675719
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  186120.35095458056
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  293458.21776440897
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  263279.4382454019
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  179214.08737234934
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  111907.32326128111
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  126166.3417052662
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  172117.55237359027
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  162989.382124638
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  188972.16681285924
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1848.7607987222386
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  250140.70682114104
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  175907.7765805465
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  239117.98137459045
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  94893.59210816961
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  14864.31431175286
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1777.655325971007
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  241941.30507204248
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  232976.04070593204
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  240105.9660374984
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  488929.8935852058
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1836.0338610148222
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  2061.2189760959277
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  225127.64255907442
+
+Ants: 40
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  218121.30461446333
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  175145.18701650962
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  169219.44907641635
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  188910.70405495883
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  209170.54381562708
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  254309.52131816946
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1658.8607952941657
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  153046.45932788812
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  227029.29219579528
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  143039.0786141802
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  148008.44081574885
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  273996.15495210374
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1838.638039659443
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  248220.93113259174
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  167962.34766556713
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  209143.05213268884
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1758.1280734276056
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  238019.25066133626
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  129012.6988175855
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  349260.61714537983
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  234006.9617541515
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  2106.969489136907
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1902.927150217028
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  194023.1207979725
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  169184.97395407825
+
+Ants: 40
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  373137.0536721513
+
+Ants: 60
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  153389.3553316874
+
+Ants: 60
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  308427.2043237805
+
+Ants: 60
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  265305.20632325206
+
+Ants: 60
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  96122.90657591439
+
+Ants: 60
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  207205.944269811
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1752.1391045025068
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  13955.509398372222
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  163960.53344978404
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  157076.54708049848
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  98981.29405118864
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1755.2017164395265
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  194023.18721388103
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  97897.10190936807
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  165979.20218604404
+
+Ants: 60
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  193031.5473221166
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  128857.02510962829
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  195970.35328660687
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  160300.2015618903
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  1803.9945030034316
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  154087.7487844812
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1988.712459239484
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  120062.4228779279
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  269234.1048986812
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  404011.4101777851
+
+Ants: 60
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  1822.6629317691425
+
+Ants: 60
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  269349.7578001422
+
+Ants: 60
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  219220.73281046032
+
+Ants: 60
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  309191.0336356552
+
+Ants: 60
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  164384.58828837576
+
+Ants: 60
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  148187.72533880456
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1715.0152111806242
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  47005.28627383894
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  36934.141283704535
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  38883.2858616812
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  183043.45083712658
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1674.0898911861943
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  91089.8570462942
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  120042.51862984261
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  126133.41724697399
+
+Ants: 60
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  95916.82912328851
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1724.262745435614
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  105845.33102969157
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  130961.09661592016
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  111837.12290272274
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  194036.43132299578
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  45828.634376436814
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  13759.989618755038
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  83826.45179222582
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  106935.62929517723
+
+Ants: 60
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  4053.7050623566847
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  177202.03341338583
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  298402.5555375087
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  187220.64229270234
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  86014.41780059748
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  122014.09193982296
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1791.0738723697377
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1727.1094140321495
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  44016.402938530526
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  180967.3448927652
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  76986.1759132489
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  139924.01268789708
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  149923.5750516244
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  93939.11614484419
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  117045.17706711186
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  108105.20018297528
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1735.0874173388474
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1876.6851857194426
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  116947.8966906197
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  91973.77834334568
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  162993.60060961533
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1721.6207482886286
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  104947.80608966101
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  293071.3035920638
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  127961.67845852673
+
+Ants: 60
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  172053.6961678156
+
+Ants: 60
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  211399.9186842176
+
+Ants: 60
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  237318.16058319132
+
+Ants: 60
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  178974.9655064176
+
+Ants: 60
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  210102.5840437455
+
+Ants: 60
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  229262.42077096674
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1678.1142919063984
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  22026.032918686615
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1672.6006501624447
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  240074.1011034988
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  127047.6035813357
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1826.3914413501914
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1808.0328041243658
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  128968.23194774661
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  89899.68247002445
+
+Ants: 60
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  116009.92839786194
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  246025.47788815392
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  182068.13770941296
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  36846.94910324914
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  138921.26673410006
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  85973.82269741509
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1789.80466221048
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1753.5720280134192
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  101055.30266299743
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  91880.49032082497
+
+Ants: 60
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  6831.939647581394
+
+Ants: 60
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  155246.4479645049
+
+Ants: 60
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  206441.6984910138
+
+Ants: 60
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  160222.06017970399
+
+Ants: 60
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  217353.65497231673
+
+Ants: 60
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  279264.84697042865
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1575.907231499863
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  20028.37921347325
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  23815.607377830944
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  152055.31692428855
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  130088.5325862324
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  19693.896923145265
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  104006.83087344021
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  183034.63532864818
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  126086.06800133275
+
+Ants: 60
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  80032.52559175147
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1909.1287028704996
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  173115.66304345196
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  1906.7428438531156
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  1940.7862553433329
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  153102.13462032724
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  170906.38365821654
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  146849.10844139627
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  1979.9009362822349
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  201122.05837951208
+
+Ants: 60
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  97172.16527541202
+
+Ants: 60
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  241459.33888017782
+
+Ants: 60
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  44255.20921467192
+
+Ants: 60
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  299299.5488733195
+
+Ants: 60
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  125211.8336329622
+
+Ants: 60
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  176048.01811066782
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1680.0978943031037
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  5916.554534024513
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1749.0542160620414
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  199194.0145641063
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  177998.3189637784
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1640.8137792610842
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  273064.1194940391
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  128963.2672456884
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  103928.38194920642
+
+Ants: 60
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  167920.6260755255
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  158944.40407585932
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  217869.28821017192
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  124058.7362344279
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  252878.13276938186
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  29125.711917174634
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  165745.5177285575
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1751.5048131734027
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  88902.77648495292
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  406228.8148462991
+
+Ants: 60
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  149799.61805078306
+
+Ants: 60
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  112114.61727695145
+
+Ants: 60
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  145178.85655922623
+
+Ants: 60
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  223127.29093299087
+
+Ants: 60
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  177250.30549855888
+
+Ants: 60
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  315506.898000241
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1741.8797667409774
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  174020.4220946821
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  162000.65628212527
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  161158.27684569205
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  119902.26044160473
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1774.9773305699332
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  223133.44744117936
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  227127.6103571633
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  238966.5155582979
+
+Ants: 60
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  111032.81500245865
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1709.668823477698
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  128816.03379038163
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  325955.92510300997
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  315029.2059218298
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  137943.66259471586
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1727.6745600640365
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  240973.6602358484
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  88933.9529176008
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  166090.9092652361
+
+Ants: 60
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  116110.28527132011
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  254222.30740800226
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  215132.44038908937
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  192267.4885940977
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  188168.0293430848
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  214267.35868237086
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1611.4245853798418
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  34140.4769539867
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  140236.5528599502
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  135076.55297183176
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  166977.99524309466
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  186810.07965018786
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1702.1130760339267
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  163054.9934892443
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  102090.72967421667
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  220053.192229093
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1810.1634818665614
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  465026.213243252
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  187990.4896455657
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  117930.21440725737
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  170947.49088037352
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1739.7719900579684
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  153800.55354817523
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  7834.261376983039
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  195914.76634891986
+
+Ants: 60
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  145066.50408052062
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  195024.9931229435
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  102948.3047461111
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  182349.36763074354
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  207446.67304195807
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  184271.62529358885
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  154924.11085509282
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1710.1828279655708
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  167967.5201875639
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  110179.79455627213
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  175125.7850599778
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1683.197997240376
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  175817.0235951358
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  160057.55342075176
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  142985.68166577388
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  101966.54968152767
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  117781.65902885498
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1680.3247280262099
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  159871.5882193829
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  121775.21645901786
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  443053.1225651495
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  7856.262850309169
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  326964.50732547074
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  155896.9807834388
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  126921.8520697646
+
+Ants: 60
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  130080.46202532685
+
+Ants: 80
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  210598.42680299355
+
+Ants: 80
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  153277.50307565197
+
+Ants: 80
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  253491.7785369695
+
+Ants: 80
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  186359.3404348226
+
+Ants: 80
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  241261.0716413127
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1839.312304353737
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  50895.44152057051
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  24899.709413720775
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  28889.443409838474
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  133100.6082965845
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1723.6208476473516
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  150237.2455582523
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  118103.77138446063
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  104113.98268967494
+
+Ants: 80
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  129969.09337842127
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1732.420685242152
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1807.9743723496372
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  116048.76521283771
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  142070.5700839311
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  111910.34493796751
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1823.1469053242408
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  232978.87717178027
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  117861.17192523715
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  157944.49285647116
+
+Ants: 80
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  120933.8810772569
+
+Ants: 80
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  222688.62397191118
+
+Ants: 80
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  254448.31460294337
+
+Ants: 80
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  73136.1023381112
+
+Ants: 80
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  244151.7644007627
+
+Ants: 80
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  220212.38728062814
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1755.4845761775946
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  31884.284701376408
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  149201.36126388417
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  151008.1669978706
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  94965.64038131206
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1707.1845746406086
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  88837.09522597819
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  232132.85989798058
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  103019.58630033584
+
+Ants: 80
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  196307.3610089524
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1691.132446094838
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1833.0497063869473
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  1927.7962542831935
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  178883.13507796216
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  110083.00392102575
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1829.8905899912243
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  88906.58531038754
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  1761.2572038403132
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  137917.28780670572
+
+Ants: 80
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  195176.92784890145
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  220244.91542498535
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  202257.9827739705
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  144225.65047688127
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  162475.3906855586
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  279708.1448225323
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1659.8191341338788
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1767.9792362491764
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  194956.69217071377
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  99952.42329227233
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  108937.32040253747
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1745.464468508416
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1772.7036902182829
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  128041.24275534737
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  190969.0709317711
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  140996.6634272051
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  99975.39851907273
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  110965.41211668504
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  81862.57065082103
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  91960.51416384483
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  141090.96757921868
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  82827.7009291765
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1757.7878563448166
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  116001.09420592872
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  134024.18854829133
+
+Ants: 80
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  175979.20550030508
+
+Ants: 80
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  272258.0755585426
+
+Ants: 80
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  79214.118421514
+
+Ants: 80
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  177364.0235628306
+
+Ants: 80
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  112123.91657329047
+
+Ants: 80
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  244116.80124440155
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1633.786931465269
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1737.0818536644354
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  79808.35623790439
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  130100.46302933895
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  192990.8803488157
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  135830.96159780252
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1697.9861282503168
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  89034.49215462629
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  157889.40122983957
+
+Ants: 80
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  126064.64173364456
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1826.996639547182
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1817.3905597460284
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  170978.27738045604
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  1775.9184965840902
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  171854.36711272562
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  134784.81409261093
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  122769.34548534449
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  127978.45987416495
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  518020.3296357276
+
+Ants: 80
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  151965.80867798394
+
+Ants: 80
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  195410.5523897691
+
+Ants: 80
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  52151.16848038678
+
+Ants: 80
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  178623.3539974735
+
+Ants: 80
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  186391.4933895323
+
+Ants: 80
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  251408.86809944423
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1618.7725358866953
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1700.537046897117
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1687.3749411377592
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  152075.64879331
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  100006.14464080645
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  159913.5101518473
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  103851.9534399403
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  198087.3765019532
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  124928.70291461553
+
+Ants: 80
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  130069.934066237
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1617.1240598174086
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  147049.011161727
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  187932.32627668968
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  146019.54757579137
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  226028.24279322702
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1980.601717414422
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  131854.28310433135
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  172851.8808300716
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  40960.86829063899
+
+Ants: 80
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  121064.8656532814
+
+Ants: 80
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  37177.98110589312
+
+Ants: 80
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  182356.93794833095
+
+Ants: 80
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  171185.21776853435
+
+Ants: 80
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  203326.06905889628
+
+Ants: 80
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  239184.4660132915
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1595.6388272259765
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1679.327990747666
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  97130.12445055059
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  82951.47191962684
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  138107.32325462683
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1822.374235168177
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  88985.44892299369
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  139048.330108384
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  94997.91466563515
+
+Ants: 80
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  166083.36385207972
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1844.7485209410825
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1700.3901609888594
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  92822.06704329103
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  109949.20724903626
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  82857.17806949465
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1819.917428861974
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1793.4292957716193
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  119126.61169288574
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  106044.02454588198
+
+Ants: 80
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  123943.02078327487
+
+Ants: 80
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  107360.78335442142
+
+Ants: 80
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  176134.00421083326
+
+Ants: 80
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  63027.7922077568
+
+Ants: 80
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  167309.3722634147
+
+Ants: 80
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  116125.01933187386
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1717.159332952656
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1873.6242770858248
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1748.4564371731635
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  165013.5596001908
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  105876.74057713887
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  139941.8632723351
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  145080.73316623498
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  200215.28927263353
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  98940.81852950212
+
+Ants: 80
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  123919.15061607573
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1953.2525287356757
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1672.2000210957242
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  293937.92719964625
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  185991.03868760515
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  163151.7296017994
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1892.9863679269058
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  124957.34328649388
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  196068.34338605395
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  185138.4060373488
+
+Ants: 80
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  1884.3660124371916
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  108427.31218418556
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  141213.73386012422
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  95328.64612988775
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  195258.73628740717
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  182993.38984850622
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1658.5760111295588
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1646.6405402575767
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  145077.49390951937
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  119941.60036868733
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  160997.75011902684
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1710.4821716343401
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1668.650403844719
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  93046.02939046371
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  82925.57935463413
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  121804.16900143652
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1836.1632778255525
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1680.6993667588908
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  161910.30001770114
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  135072.62979669406
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  146793.93487262217
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1850.798678536557
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1929.648653534922
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  155917.34702357673
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  100791.36522928558
+
+Ants: 80
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  308062.09426977026
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  171434.505629078
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  124320.77044098389
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  179145.5106260105
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  194250.98729381594
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  170258.84200311368
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1619.9946203134184
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  98977.1048601917
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1690.991536053796
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  145101.72160277286
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  99145.05550747711
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1665.904509698266
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  209121.24016420695
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  221164.52686401733
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  109008.98815420042
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  118919.8151070253
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1798.7896794687153
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  272975.85621480504
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  48858.51189509793
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  153167.3104676952
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  218957.2854704087
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1877.5976740684148
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1826.9107238334248
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  642790.9326341085
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  150782.64124697892
+
+Ants: 80
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  267884.84806604084
+
+Ants: 100
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  225205.00036369753
+
+Ants: 100
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  284375.2070884616
+
+Ants: 100
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  249380.28496376803
+
+Ants: 100
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  52423.04648982469
+
+Ants: 100
+Decay: 0.1
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  293340.621343889
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  24983.16526872794
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  117003.09996525661
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  18930.986552924336
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  25979.91890196343
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  123999.85810992407
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1622.1764316998574
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1778.2293027601056
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  108069.1709127838
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  157042.59612425807
+
+Ants: 100
+Decay: 0.1
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  174150.49843190933
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1732.2631433271508
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  89881.52818128806
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  125901.97393807286
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  127019.70892489592
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  95076.29035295077
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1671.3415078974613
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  155822.35579700515
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  116946.70254340778
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  275107.8628609641
+
+Ants: 100
+Decay: 0.1
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  160877.9337048514
+
+Ants: 100
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  262699.6559764139
+
+Ants: 100
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  168532.2676508112
+
+Ants: 100
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  259391.79524611848
+
+Ants: 100
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  169252.26041305024
+
+Ants: 100
+Decay: 0.2
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  153003.14522851523
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1663.4971343171615
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  16099.985026258524
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  74976.64080350571
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  21944.963625151868
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  80884.68980289783
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1739.793561388062
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1629.3072881836372
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  96012.45902019778
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  147893.64147232895
+
+Ants: 100
+Decay: 0.2
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  146952.42485846297
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1679.1784468339952
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1731.040923875535
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  121985.6987163253
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  114103.39729858865
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  102854.4550781436
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1678.3951925728984
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  134917.4947538586
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  262869.8736996948
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  1840.9596621403614
+
+Ants: 100
+Decay: 0.2
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  98972.01905404254
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  178311.91041245623
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  159355.29814940045
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  261409.62018647554
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  215349.06962785995
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  294074.47292871645
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1636.3692837175658
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  38043.049199347
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1859.808001657521
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  130898.10634481456
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  89034.78194179501
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1704.1615353308785
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  98974.40912135216
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  79945.74763521983
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  120063.35713063525
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  115952.88050862109
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1798.0203423994822
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1680.030808750224
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  102090.74613347038
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  194074.86555035313
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  1758.9133256265966
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1818.2912083509375
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1744.1719549167747
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  111938.95710203797
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  125896.99154714828
+
+Ants: 100
+Decay: 0.30000000000000004
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  67030.20400819195
+
+Ants: 100
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  215278.67547408942
+
+Ants: 100
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  226365.6834064678
+
+Ants: 100
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  161209.69068730253
+
+Ants: 100
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  197353.8233874494
+
+Ants: 100
+Decay: 0.4
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  102090.43803689948
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1663.287936105773
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1763.8371490245381
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  59924.73515759655
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  148070.57849614826
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  109831.28344712488
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  79820.07137962012
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  79939.36470201667
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  101959.44691906493
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  120033.88536548443
+
+Ants: 100
+Decay: 0.4
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  118123.9606479445
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1845.93282043399
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  7777.954709742753
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  121123.50174563752
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  192974.36508951953
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  104107.33571502731
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1729.9193403961572
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  143880.3624671253
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  154908.29694852195
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  146948.62831668445
+
+Ants: 100
+Decay: 0.4
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  129925.40064321048
+
+Ants: 100
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  229263.55064064224
+
+Ants: 100
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  121031.91130873894
+
+Ants: 100
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  155468.16616566983
+
+Ants: 100
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  207329.6144366445
+
+Ants: 100
+Decay: 0.5
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  210155.57302425097
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1662.4599444296489
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1683.9227422098418
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  1725.310564527804
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  119100.90373869681
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  82943.3431185887
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  131029.88951288068
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1791.2825333905225
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  95809.64259415364
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  108915.67738483183
+
+Ants: 100
+Decay: 0.5
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  92073.93574466334
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  4809.624496960336
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  119938.16388608633
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  170016.99981488977
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  153075.77153590453
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  114031.67419943151
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  82762.39572189616
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1777.0722254338493
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  168822.04647002445
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  168862.9681708408
+
+Ants: 100
+Decay: 0.5
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  151968.18908054475
+
+Ants: 100
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  201210.4499071199
+
+Ants: 100
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  153246.22701498293
+
+Ants: 100
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  204057.57947742936
+
+Ants: 100
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  159240.42488905453
+
+Ants: 100
+Decay: 0.6
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  276484.8902267719
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1751.3359932650947
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  39044.65961757694
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  93980.31322836137
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  118984.58298313561
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  61079.543511179196
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1714.3151834140328
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1717.308194200135
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  92980.7857389302
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  82954.90586203174
+
+Ants: 100
+Decay: 0.6
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  88805.00597271477
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1740.5355390651077
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  125942.0079780524
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  1771.0461052575881
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  100932.24364409603
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  116946.58041133599
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1755.999331303311
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  98769.69252751797
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  196005.12607929777
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  111810.89269628668
+
+Ants: 100
+Decay: 0.6
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  1896.02849216555
+
+Ants: 100
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  119156.89583895869
+
+Ants: 100
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  138311.88685491908
+
+Ants: 100
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  197242.072203541
+
+Ants: 100
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  179385.29533036935
+
+Ants: 100
+Decay: 0.7
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  136223.91144892664
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1762.7442041266274
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1847.3628771032097
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  128020.82128230734
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  122989.51655425079
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  104896.1320273286
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1667.3126570083627
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1794.5613736219395
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  110857.54655475522
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  163967.43440016295
+
+Ants: 100
+Decay: 0.7
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  144952.32603615578
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  247942.40845293028
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  1878.2189401257276
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  1826.8535028016943
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  222966.62963773965
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  161124.73389463747
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1773.1356527832645
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  132808.0883780225
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  1901.547383235788
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  1794.1228137242938
+
+Ants: 100
+Decay: 0.7
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  155068.98226982876
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  107264.88284203048
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  165394.1886918045
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  230309.64096223447
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  159167.46316266916
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  161037.77481762355
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1699.4074200783632
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1732.6197051235138
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  120973.16844165689
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  124148.8582213869
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  252918.91943884493
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1784.1864885194925
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  130867.60904775445
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  121003.91533953452
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  132954.7305802449
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  114990.19868758554
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  122899.67268989072
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  125005.11346728582
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  118940.1165029363
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  296080.57230762107
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  119043.24843373297
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1892.1254609620478
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  147047.33255592053
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  2005.8517110717316
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  289019.4317105517
+
+Ants: 100
+Decay: 0.7999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  126903.81157012976
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.0
+ObjectiveV:  250297.3586692165
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 2.5
+ObjectiveV:  179147.4714354559
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.0
+ObjectiveV:  216204.3845214984
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 3.5
+ObjectiveV:  135263.13278487886
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 0.5
+BetaV: 4.0
+ObjectiveV:  156266.81097133676
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.0
+ObjectiveV:  1684.099958563064
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 2.5
+ObjectiveV:  1636.197622294976
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.0
+ObjectiveV:  105166.40439989805
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 3.5
+ObjectiveV:  148137.86743115255
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.0
+BetaV: 4.0
+ObjectiveV:  102953.12299959807
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.0
+ObjectiveV:  1742.4458109837728
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 2.5
+ObjectiveV:  1716.218684920888
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.0
+ObjectiveV:  129993.00327256927
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 3.5
+ObjectiveV:  1720.2186385953112
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 1.5
+BetaV: 4.0
+ObjectiveV:  159033.96419236236
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.0
+ObjectiveV:  1905.188180962135
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 2.5
+ObjectiveV:  123854.64936600444
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.0
+ObjectiveV:  120114.2312418438
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 3.5
+ObjectiveV:  145790.86367081216
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.0
+BetaV: 4.0
+ObjectiveV:  196021.50857380094
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.0
+ObjectiveV:  1784.087144623318
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 2.5
+ObjectiveV:  1735.422194764996
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.0
+ObjectiveV:  306210.4026310433
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 3.5
+ObjectiveV:  147923.6217584796
+
+Ants: 100
+Decay: 0.8999999999999999
+AlphaV: 2.5
+BetaV: 4.0
+ObjectiveV:  116816.4778697765
+
+Best Distance: 1575.907231499863
+AN: 60.0
+D: 0.5
+A: 1.0
+B: 2.0
